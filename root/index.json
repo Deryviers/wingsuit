@@ -1,0 +1,30 @@
+{
+    "version": "3.0",
+    "updated": "2026-11-15T19:45:59+00:00",
+    "games": [
+        {
+            "id": "magic_arena",
+            "title": "Magic Arena — командная битва",
+            "txt": "magic_arena.txt",
+            "json": "magic_arena.json"
+        },
+        {
+            "id": "magic_arena_solo",
+            "title": "Magic Arena — одиночная игра",
+            "txt": "magic_arena_solo.txt",
+            "json": "magic_arena_solo.json"
+        },
+        {
+            "id": "my_game",
+            "title": "Моя игра",
+            "txt": "my_game.txt",
+            "json": "my_game.json"
+        },
+        {
+            "id": "wingsuit",
+            "title": "Вингсьют — полёты",
+            "txt": "wingsuit.txt",
+            "json": "wingsuit.json"
+        }
+    ]
+}
