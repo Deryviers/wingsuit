@@ -1,25 +1,25 @@
 T3	wingsuit	7	points	25	0	0	1	4	10	0	5
-P	1	8	2	0	0	2099	4	427	4	2185	RT25
-P	2	4	0	0	0	1468	138	273	4	2040	RayProtogn
-P	3	5	0	0	0	1166	92	165	4	1554	Boogie_Green
-P	4	13	0	0	0	1149	23	197	2	1251	No iD×
+P	1	8	3	0	0	2401	8	575	5	2533	RT25
+P	2	13	0	0	0	2286	42	392	3	2469	No iD×
+P	3	4	0	0	0	1468	138	273	4	2040	RayProtogn
+P	4	5	0	0	0	1166	92	165	4	1554	Boogie_Green
 P	5	12	1	0	0	1017	25	188	3	1157	_lof_
 P	6	1	0	0	0	845	44	127	3	1036	Deryvier
 P	7	3	0	0	0	98	2	18	1	111	text․r d1ce
-R	w	1	8	2	RT25
+R	w	1	8	3	RT25
 R	w	2	12	1	_lof_
 R	pk	1	4	138	RayProtogn
 R	pk	2	5	92	Boogie_Green
 R	pk	3	1	44	Deryvier
-R	ik	1	8	2099	RT25
-R	ik	2	4	1468	RayProtogn
-R	ik	3	5	1166	Boogie_Green
-R	gm	1	8	2	RT25
+R	ik	1	8	2401	RT25
+R	ik	2	13	2286	No iD×
+R	ik	3	4	1468	RayProtogn
+R	gm	1	8	3	RT25
 R	gm	2	12	1	_lof_
-R	c3	1	8	427	RT25
-R	c3	2	4	273	RayProtogn
-R	c3	3	13	197	No iD×
-R	c4	1	8	4	RT25
+R	c3	1	8	575	RT25
+R	c3	2	13	392	No iD×
+R	c3	3	4	273	RayProtogn
+R	c4	1	8	5	RT25
 R	c4	2	4	4	RayProtogn
 R	c4	3	5	4	Boogie_Green
-Z	3	7842	328	1395	21
+Z	4	9281	351	1738	23
