@@ -1,2 +1,2 @@
-T3	my_game	0	points	100	30	0	1	10	10	0	0	1794774255
+T3	my_game	0	points	100	30	0	1	10	10	0	0
 Z	0	0	0	0	0
