@@ -1,5 +1,5 @@
 T3	wingsuit	10	points	25	0	0	1	4	10	0	5
-P	1	1	8	0	0	7319	833	1346	18	10941	Deryvier
+P	1	1	9	0	0	7688	839	1387	19	11364	Deryvier
 P	2	4	2	0	0	4156	646	836	6	6820	RayProtogn
 P	3	8	8	0	0	4486	29	924	13	4867	RT25
 P	4	13	0	0	0	2286	42	392	3	2469	No iD×
@@ -9,22 +9,22 @@ P	7	12	1	0	0	1017	25	188	3	1157	_lof_
 P	8	6	1	0	0	570	3	88	1	612	persikzdes
 P	9	14	0	0	0	482	19	49	2	568	[1] Local Player
 P	10	3	0	0	0	98	2	18	1	111	text․r d1ce
-R	w	1	1	8	Deryvier
+R	w	1	1	9	Deryvier
 R	w	2	8	8	RT25
 R	w	3	4	2	RayProtogn
-R	pk	1	1	833	Deryvier
+R	pk	1	1	839	Deryvier
 R	pk	2	4	646	RayProtogn
 R	pk	3	5	120	Boogie_Green
-R	ik	1	1	7319	Deryvier
+R	ik	1	1	7688	Deryvier
 R	ik	2	8	4486	RT25
 R	ik	3	4	4156	RayProtogn
-R	gm	1	1	8	Deryvier
+R	gm	1	1	9	Deryvier
 R	gm	2	8	8	RT25
 R	gm	3	4	2	RayProtogn
-R	c3	1	1	1346	Deryvier
+R	c3	1	1	1387	Deryvier
 R	c3	2	8	924	RT25
 R	c3	3	4	836	RayProtogn
-R	c4	1	1	18	Deryvier
+R	c4	1	1	19	Deryvier
 R	c4	2	8	13	RT25
 R	c4	3	4	6	RayProtogn
-Z	22	24077	1816	4394	55
+Z	23	24446	1822	4435	56
