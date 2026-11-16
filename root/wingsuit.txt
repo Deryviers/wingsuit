@@ -1,4 +1,4 @@
-T3	wingsuit	12	points	25	0	0	1	4	10	0	5
+T3	wingsuit	15	points	25	0	0	1	4	10	0	5
 P	1	1	11	0	0	12926	975	2527	30	17251	Deryvier
 P	2	4	2	0	0	4156	646	836	6	6820	RayProtogn
 P	3	8	8	0	0	4486	29	924	13	4867	RT25
@@ -10,7 +10,10 @@ P	8	16	2	0	0	2188	5	339	3	2273	AngeloPal84
 P	9	5	0	0	0	1661	120	222	5	2166	Boogie_Green
 P	10	12	1	0	0	1017	25	188	3	1157	_lof_
 P	11	14	0	0	0	482	19	49	2	568	[1] Local Player
-P	12	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	12	19	0	0	0	422	1	72	1	431	｜Stampante｜
+P	13	17	0	0	0	349	5	48	1	374	Ana_AP
+P	14	18	0	0	0	333	9	61	1	374	Gaietta1999
+P	15	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	11	Deryvier
 R	w	2	8	8	RT25
 R	w	3	6	4	persikzdes
@@ -30,4 +33,4 @@ R	c3	3	4	836	RayProtogn
 R	c4	1	1	30	Deryvier
 R	c4	2	8	13	RT25
 R	c4	3	6	8	persikzdes
-Z	33	37737	2086	7050	82
+Z	33	38841	2101	7231	85
