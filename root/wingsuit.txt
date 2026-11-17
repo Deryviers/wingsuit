@@ -1,7 +1,7 @@
 T3	wingsuit	23	points	25	0	0	1	4	10	0	5
-P	1	1	16	0	0	25098	1837	4469	66	33176	Deryvier
+P	1	1	16	0	0	25573	1851	4564	69	33722	Deryvier
 P	2	4	2	0	0	4156	646	836	6	6820	RayProtogn
-P	3	6	7	0	0	5802	27	1159	12	6145	persikzdes
+P	3	6	7	0	0	6123	27	1218	13	6471	persikzdes
 P	4	8	8	0	0	4486	29	924	13	4867	RT25
 P	5	15	3	0	0	3265	103	567	5	3777	TOMATON chan
 P	6	18	0	0	0	3591	33	607	5	3748	Gaietta1999
@@ -18,27 +18,27 @@ P	16	22	0	0	0	1056	113	145	4	1528	Flintツ
 P	17	23	0	0	0	1338	5	306	3	1373	Chomik465
 P	18	12	1	0	0	1017	25	188	3	1157	_lof_
 P	19	25	0	0	0	873	8	140	3	920	Aureal VR
-P	20	14	0	0	0	482	19	49	2	568	[1] Local Player
-P	21	28	1	0	0	499	1	170	1	533	Lesik_fox
+P	20	28	1	0	0	786	21	215	2	905	Lesik_fox
+P	21	14	0	0	0	482	19	49	2	568	[1] Local Player
 P	22	21	0	0	0	105	10	14	1	150	_Elizabet_
 P	23	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	16	Deryvier
 R	w	2	8	8	RT25
 R	w	3	6	7	persikzdes
-R	pk	1	1	1837	Deryvier
+R	pk	1	1	1851	Deryvier
 R	pk	2	4	646	RayProtogn
 R	pk	3	26	143	NEKROLOQ
-R	ik	1	1	25098	Deryvier
-R	ik	2	6	5802	persikzdes
+R	ik	1	1	25573	Deryvier
+R	ik	2	6	6123	persikzdes
 R	ik	3	8	4486	RT25
 R	gm	1	1	16	Deryvier
 R	gm	2	8	8	RT25
 R	gm	3	6	7	persikzdes
 R	wr	1	1	1000	Deryvier
-R	c3	1	1	4469	Deryvier
-R	c3	2	6	1159	persikzdes
+R	c3	1	1	4564	Deryvier
+R	c3	2	6	1218	persikzdes
 R	c3	3	8	924	RT25
-R	c4	1	1	66	Deryvier
-R	c4	2	8	13	RT25
-R	c4	3	6	12	persikzdes
-Z	43	71517	3413	12778	173
+R	c4	1	1	69	Deryvier
+R	c4	2	6	13	persikzdes
+R	c4	3	8	13	RT25
+Z	43	72600	3447	12977	178
