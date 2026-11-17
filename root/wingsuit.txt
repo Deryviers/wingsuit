@@ -1,5 +1,5 @@
 T3	wingsuit	19	points	25	0	0	1	4	10	0	5
-P	1	1	12	0	0	17024	1091	3196	43	21903	Deryvier
+P	1	1	12	0	0	17036	1091	3200	44	21920	Deryvier
 P	2	4	2	0	0	4156	646	836	6	6820	RayProtogn
 P	3	8	8	0	0	4486	29	924	13	4867	RT25
 P	4	15	3	0	0	3265	103	567	5	3777	TOMATON chan
@@ -24,17 +24,17 @@ R	w	3	6	4	persikzdes
 R	pk	1	1	1091	Deryvier
 R	pk	2	4	646	RayProtogn
 R	pk	3	5	120	Boogie_Green
-R	ik	1	1	17024	Deryvier
+R	ik	1	1	17036	Deryvier
 R	ik	2	8	4486	RT25
 R	ik	3	4	4156	RayProtogn
 R	gm	1	1	12	Deryvier
 R	gm	2	8	8	RT25
 R	gm	3	6	4	persikzdes
 R	wr	1	1	1000	Deryvier
-R	c3	1	1	3196	Deryvier
+R	c3	1	1	3200	Deryvier
 R	c3	2	8	924	RT25
 R	c3	3	4	836	RayProtogn
-R	c4	1	1	43	Deryvier
+R	c4	1	1	44	Deryvier
 R	c4	2	8	13	RT25
 R	c4	3	6	8	persikzdes
-Z	34	53572	2435	9783	123
+Z	34	53584	2435	9787	124
