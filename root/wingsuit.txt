@@ -1,5 +1,5 @@
 T3	wingsuit	19	points	25	0	0	1	4	10	0	5
-P	1	1	11	0	0	15549	1000	2955	40	20024	Deryvier
+P	1	1	11	0	0	15946	1001	3022	41	20430	Deryvier
 P	2	4	2	0	0	4156	646	836	6	6820	RayProtogn
 P	3	8	8	0	0	4486	29	924	13	4867	RT25
 P	4	15	3	0	0	3265	103	567	5	3777	TOMATON chan
@@ -11,30 +11,30 @@ P	9	13	0	0	0	2286	42	392	3	2469	No iD×
 P	10	9	2	0	0	2002	97	331	3	2455	Nootau
 P	11	5	0	0	0	1661	120	222	5	2166	Boogie_Green
 P	12	17	0	0	0	1762	40	379	6	1952	Ana_AP
-P	13	12	1	0	0	1017	25	188	3	1157	_lof_
-P	14	22	0	0	0	606	24	73	3	717	Flintツ
-P	15	14	0	0	0	482	19	49	2	568	[1] Local Player
-P	16	20	0	0	0	425	4	64	2	451	ХPEH
-P	17	23	0	0	0	247	4	34	2	273	Chomik465
+P	13	22	0	0	0	1056	113	145	4	1528	Flintツ
+P	14	23	0	0	0	1338	5	306	3	1373	Chomik465
+P	15	12	1	0	0	1017	25	188	3	1157	_lof_
+P	16	14	0	0	0	482	19	49	2	568	[1] Local Player
+P	17	20	0	0	0	425	4	64	2	451	ХPEH
 P	18	21	0	0	0	105	10	14	1	150	_Elizabet_
 P	19	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	11	Deryvier
 R	w	2	8	8	RT25
 R	w	3	6	4	persikzdes
-R	pk	1	1	1000	Deryvier
+R	pk	1	1	1001	Deryvier
 R	pk	2	4	646	RayProtogn
 R	pk	3	5	120	Boogie_Green
-R	ik	1	1	15549	Deryvier
+R	ik	1	1	15946	Deryvier
 R	ik	2	8	4486	RT25
 R	ik	3	4	4156	RayProtogn
 R	gm	1	1	11	Deryvier
 R	gm	2	8	8	RT25
 R	gm	3	6	4	persikzdes
 R	wr	1	1	1000	Deryvier
-R	c3	1	1	2955	Deryvier
+R	c3	1	1	3022	Deryvier
 R	c3	2	8	924	RT25
 R	c3	3	4	836	RayProtogn
-R	c4	1	1	40	Deryvier
+R	c4	1	1	41	Deryvier
 R	c4	2	8	13	RT25
 R	c4	3	6	8	persikzdes
-Z	33	50556	2254	9198	118
+Z	33	52494	2345	9609	121
