@@ -6,10 +6,10 @@ P	4	15	3	0	0	3265	103	567	5	3777	TOMATON chan
 P	5	18	0	0	0	3591	33	607	5	3748	Gaietta1999
 P	6	6	4	0	0	3170	23	657	8	3402	persikzdes
 P	7	19	0	0	0	3249	26	530	6	3383	｜Stampante｜
-P	8	16	2	0	0	2399	7	358	4	2497	AngeloPal84
-P	9	13	0	0	0	2286	42	392	3	2469	No iD×
-P	10	9	2	0	0	2002	97	331	3	2455	Nootau
-P	11	5	0	0	0	1661	120	222	5	2166	Boogie_Green
+P	8	5	0	0	0	2060	133	263	6	2622	Boogie_Green
+P	9	16	2	0	0	2399	7	358	4	2497	AngeloPal84
+P	10	13	0	0	0	2286	42	392	3	2469	No iD×
+P	11	9	2	0	0	2002	97	331	3	2455	Nootau
 P	12	17	0	0	0	1762	40	379	6	1952	Ana_AP
 P	13	22	0	0	0	1056	113	145	4	1528	Flintツ
 P	14	23	0	0	0	1338	5	306	3	1373	Chomik465
@@ -23,7 +23,7 @@ R	w	2	8	8	RT25
 R	w	3	6	4	persikzdes
 R	pk	1	1	1646	Deryvier
 R	pk	2	4	646	RayProtogn
-R	pk	3	5	120	Boogie_Green
+R	pk	3	5	133	Boogie_Green
 R	ik	1	1	22286	Deryvier
 R	ik	2	8	4486	RT25
 R	ik	3	4	4156	RayProtogn
@@ -37,4 +37,4 @@ R	c3	3	4	836	RayProtogn
 R	c4	1	1	57	Deryvier
 R	c4	2	8	13	RT25
 R	c4	3	6	8	persikzdes
-Z	37	58834	2990	10652	137
+Z	37	59233	3003	10693	138
