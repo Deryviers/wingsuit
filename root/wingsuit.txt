@@ -1,4 +1,4 @@
-T3	wingsuit	19	points	25	0	0	1	4	10	0	5
+T3	wingsuit	20	points	25	0	0	1	4	10	0	5
 P	1	1	15	0	0	22628	1651	4105	58	29897	Deryvier
 P	2	4	2	0	0	4156	646	836	6	6820	RayProtogn
 P	3	8	8	0	0	4486	29	924	13	4867	RT25
@@ -16,8 +16,9 @@ P	14	23	0	0	0	1338	5	306	3	1373	Chomik465
 P	15	12	1	0	0	1017	25	188	3	1157	_lof_
 P	16	14	0	0	0	482	19	49	2	568	[1] Local Player
 P	17	20	0	0	0	425	4	64	2	451	ХPEH
-P	18	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	19	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	18	25	0	0	0	294	1	47	1	303	Aureal VR
+P	19	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	20	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	15	Deryvier
 R	w	2	8	8	RT25
 R	w	3	6	4	persikzdes
@@ -37,4 +38,4 @@ R	c3	3	4	836	RayProtogn
 R	c4	1	1	58	Deryvier
 R	c4	2	8	13	RT25
 R	c4	3	6	8	persikzdes
-Z	37	59575	3008	10733	139
+Z	37	59869	3009	10780	140
