@@ -1,18 +1,18 @@
 T3	wingsuit	26	points	25	0	0	1	4	10	0	5
-P	1	1	16	0	0	28268	2146	5000	77	37637	Deryvier
+P	1	1	17	0	0	28952	2194	5110	78	38543	Deryvier
 P	2	6	10	0	0	9158	150	1722	21	10113	persikzdes
 P	3	4	2	0	0	4156	646	836	6	6820	RayProtogn
 P	4	8	8	0	0	4486	29	924	13	4867	RT25
-P	5	15	3	0	0	3265	103	567	5	3777	TOMATON chan
-P	6	18	0	0	0	3591	33	607	5	3748	Gaietta1999
-P	7	31	0	0	0	3619	17	684	3	3702	NikoLink
-P	8	19	0	0	0	3249	26	530	6	3383	｜Stampante｜
-P	9	16	2	0	0	2930	8	433	5	3037	AngeloPal84
-P	10	5	0	0	0	2060	133	263	6	2622	Boogie_Green
-P	11	20	0	0	0	2377	38	361	12	2589	ХPEH
-P	12	13	0	0	0	2286	42	392	3	2469	No iD×
-P	13	9	2	0	0	2002	97	331	3	2455	Nootau
-P	14	30	0	0	0	1894	98	322	2	2296	Страх34
+P	5	30	0	0	0	3974	101	654	3	4393	Страх34
+P	6	15	3	0	0	3265	103	567	5	3777	TOMATON chan
+P	7	18	0	0	0	3591	33	607	5	3748	Gaietta1999
+P	8	31	0	0	0	3619	17	684	3	3702	NikoLink
+P	9	19	0	0	0	3249	26	530	6	3383	｜Stampante｜
+P	10	16	2	0	0	2930	8	433	5	3037	AngeloPal84
+P	11	5	0	0	0	2060	133	263	6	2622	Boogie_Green
+P	12	20	0	0	0	2377	38	361	12	2589	ХPEH
+P	13	13	0	0	0	2286	42	392	3	2469	No iD×
+P	14	9	2	0	0	2002	97	331	3	2455	Nootau
 P	15	26	1	0	0	1675	143	246	4	2292	NEKROLOQ
 P	16	29	0	0	0	1811	42	290	3	1994	-Bim
 P	17	27	0	0	0	1841	29	326	4	1977	VLΑD
@@ -25,24 +25,24 @@ P	23	25	0	0	0	873	8	140	3	920	Aureal VR
 P	24	14	0	0	0	482	19	49	2	568	[1] Local Player
 P	25	21	0	0	0	105	10	14	1	150	_Elizabet_
 P	26	3	0	0	0	98	2	18	1	111	text․r d1ce
-R	w	1	1	16	Deryvier
+R	w	1	1	17	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
-R	pk	1	1	2146	Deryvier
+R	pk	1	1	2194	Deryvier
 R	pk	2	4	646	RayProtogn
 R	pk	3	6	150	persikzdes
-R	ik	1	1	28268	Deryvier
+R	ik	1	1	28952	Deryvier
 R	ik	2	6	9158	persikzdes
 R	ik	3	8	4486	RT25
-R	gm	1	1	16	Deryvier
+R	gm	1	1	17	Deryvier
 R	gm	2	6	10	persikzdes
 R	gm	3	8	8	RT25
 R	wr	1	1	1000	Deryvier
 R	wr	2	6	1000	persikzdes
-R	c3	1	1	5000	Deryvier
+R	c3	1	1	5110	Deryvier
 R	c3	2	6	1722	persikzdes
 R	c3	3	8	924	RT25
-R	c4	1	1	77	Deryvier
+R	c4	1	1	78	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	8	13	RT25
-Z	46	86207	4040	15293	204
+Z	47	88971	4091	15735	206
