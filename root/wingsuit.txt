@@ -1,5 +1,5 @@
 T3	wingsuit	26	points	25	0	0	1	4	10	0	5
-P	1	1	16	0	0	27916	2132	4947	75	37219	Deryvier
+P	1	1	16	0	0	28268	2146	5000	77	37637	Deryvier
 P	2	6	10	0	0	9158	150	1722	21	10113	persikzdes
 P	3	4	2	0	0	4156	646	836	6	6820	RayProtogn
 P	4	8	8	0	0	4486	29	924	13	4867	RT25
@@ -11,8 +11,8 @@ P	9	5	0	0	0	2060	133	263	6	2622	Boogie_Green
 P	10	20	0	0	0	2377	38	361	12	2589	ХPEH
 P	11	13	0	0	0	2286	42	392	3	2469	No iD×
 P	12	9	2	0	0	2002	97	331	3	2455	Nootau
-P	13	26	1	0	0	1675	143	246	4	2292	NEKROLOQ
-P	14	30	0	0	0	1648	97	288	1	2041	Страх34
+P	13	30	0	0	0	1894	98	322	2	2296	Страх34
+P	14	26	1	0	0	1675	143	246	4	2292	NEKROLOQ
 P	15	29	0	0	0	1811	42	290	3	1994	-Bim
 P	16	27	0	0	0	1841	29	326	4	1977	VLΑD
 P	17	17	0	0	0	1762	40	379	6	1952	Ana_AP
@@ -28,10 +28,10 @@ P	26	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	16	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
-R	pk	1	1	2132	Deryvier
+R	pk	1	1	2146	Deryvier
 R	pk	2	4	646	RayProtogn
 R	pk	3	6	150	persikzdes
-R	ik	1	1	27916	Deryvier
+R	ik	1	1	28268	Deryvier
 R	ik	2	6	9158	persikzdes
 R	ik	3	8	4486	RT25
 R	gm	1	1	16	Deryvier
@@ -39,10 +39,10 @@ R	gm	2	6	10	persikzdes
 R	gm	3	8	8	RT25
 R	wr	1	1	1000	Deryvier
 R	wr	2	6	1000	persikzdes
-R	c3	1	1	4947	Deryvier
+R	c3	1	1	5000	Deryvier
 R	c3	2	6	1722	persikzdes
 R	c3	3	8	924	RT25
-R	c4	1	1	75	Deryvier
+R	c4	1	1	77	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	8	13	RT25
-Z	46	83342	4024	14789	200
+Z	46	83940	4039	14876	203
