@@ -1,9 +1,9 @@
-T3	wingsuit	27	points	25	0	0	1	4	10	0	5
-P	1	1	17	0	0	30677	2255	5417	85	40547	Deryvier
+T3	wingsuit	28	points	25	0	0	1	4	10	0	5
+P	1	1	17	0	0	30945	2256	5451	86	40824	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
-P	4	8	8	0	0	4486	29	924	13	4867	RT25
-P	5	5	0	0	0	3882	167	639	12	4610	Boogie_Green
+P	4	5	0	0	0	4149	168	683	13	4886	Boogie_Green
+P	5	8	8	0	0	4486	29	924	13	4867	RT25
 P	6	30	0	0	0	3974	101	654	3	4393	Страх34
 P	7	15	3	0	0	3265	103	567	5	3777	TOMATON chan
 P	8	18	0	0	0	3591	33	607	5	3748	Gaietta1999
@@ -23,16 +23,17 @@ P	21	23	0	0	0	1338	5	306	3	1373	Chomik465
 P	22	12	1	0	0	1017	25	188	3	1157	_lof_
 P	23	28	1	0	0	808	38	220	3	1000	Lesik_fox
 P	24	25	0	0	0	873	8	140	3	920	Aureal VR
-P	25	14	0	0	0	482	19	49	2	568	[1] Local Player
-P	26	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	27	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	25	34	0	0	0	478	29	63	1	599	Ντεζιρέ·xoxo
+P	26	14	0	0	0	482	19	49	2	568	[1] Local Player
+P	27	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	28	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	17	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
-R	pk	1	1	2255	Deryvier
+R	pk	1	1	2256	Deryvier
 R	pk	2	4	1781	RayProtogn
-R	pk	3	5	167	Boogie_Green
-R	ik	1	1	30677	Deryvier
+R	pk	3	5	168	Boogie_Green
+R	ik	1	1	30945	Deryvier
 R	ik	2	4	9797	RayProtogn
 R	ik	3	6	9158	persikzdes
 R	gm	1	1	17	Deryvier
@@ -40,10 +41,10 @@ R	gm	2	6	10	persikzdes
 R	gm	3	8	8	RT25
 R	wr	1	1	1000	Deryvier
 R	wr	2	6	1000	persikzdes
-R	c3	1	1	5417	Deryvier
+R	c3	1	1	5451	Deryvier
 R	c3	2	4	2189	RayProtogn
 R	c3	3	6	1722	persikzdes
-R	c4	1	1	85	Deryvier
+R	c4	1	1	86	Deryvier
 R	c4	2	6	21	persikzdes
-R	c4	3	8	13	RT25
-Z	52	100620	5348	18215	228
+R	c4	3	5	13	Boogie_Green
+Z	52	101633	5379	18356	231
