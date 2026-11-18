@@ -1,5 +1,5 @@
 T3	wingsuit	28	points	25	0	0	1	4	10	0	5
-P	1	1	17	0	0	31096	2265	5479	87	41016	Deryvier
+P	1	1	17	0	0	31408	2277	5516	88	41381	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
 P	4	5	0	0	0	4149	168	683	13	4886	Boogie_Green
@@ -30,10 +30,10 @@ P	28	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	17	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
-R	pk	1	1	2265	Deryvier
+R	pk	1	1	2277	Deryvier
 R	pk	2	4	1781	RayProtogn
 R	pk	3	5	168	Boogie_Green
-R	ik	1	1	31096	Deryvier
+R	ik	1	1	31408	Deryvier
 R	ik	2	4	9797	RayProtogn
 R	ik	3	6	9158	persikzdes
 R	gm	1	1	17	Deryvier
@@ -41,10 +41,10 @@ R	gm	2	6	10	persikzdes
 R	gm	3	8	8	RT25
 R	wr	1	1	1000	Deryvier
 R	wr	2	6	1000	persikzdes
-R	c3	1	1	5479	Deryvier
+R	c3	1	1	5516	Deryvier
 R	c3	2	4	2189	RayProtogn
 R	c3	3	6	1722	persikzdes
-R	c4	1	1	87	Deryvier
+R	c4	1	1	88	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	52	101889	5410	18399	233
+Z	52	102201	5422	18436	234
