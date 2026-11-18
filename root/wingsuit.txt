@@ -3,8 +3,8 @@ P	1	1	17	0	0	30440	2253	5386	84	40297	Deryvier
 P	2	4	5	0	0	7645	764	1820	10	10876	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
 P	4	8	8	0	0	4486	29	924	13	4867	RT25
-P	5	30	0	0	0	3974	101	654	3	4393	Страх34
-P	6	5	0	0	0	3524	166	574	11	4243	Boogie_Green
+P	5	5	0	0	0	3882	167	639	12	4610	Boogie_Green
+P	6	30	0	0	0	3974	101	654	3	4393	Страх34
 P	7	15	3	0	0	3265	103	567	5	3777	TOMATON chan
 P	8	18	0	0	0	3591	33	607	5	3748	Gaietta1999
 P	9	31	0	0	0	3619	17	684	3	3702	NikoLink
@@ -31,7 +31,7 @@ R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
 R	pk	1	1	2253	Deryvier
 R	pk	2	4	764	RayProtogn
-R	pk	3	5	166	Boogie_Green
+R	pk	3	5	167	Boogie_Green
 R	ik	1	1	30440	Deryvier
 R	ik	2	6	9158	persikzdes
 R	ik	3	4	7645	RayProtogn
@@ -46,4 +46,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	84	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	8	13	RT25
-Z	51	97873	4328	17750	224
+Z	51	98231	4329	17815	225
