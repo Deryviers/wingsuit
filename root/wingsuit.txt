@@ -4,7 +4,7 @@ P	2	6	10	0	0	9158	150	1722	21	10113	persikzdes
 P	3	4	3	0	0	6716	753	1732	7	9838	RayProtogn
 P	4	8	8	0	0	4486	29	924	13	4867	RT25
 P	5	30	0	0	0	3974	101	654	3	4393	Страх34
-P	6	5	0	0	0	3310	156	523	9	3979	Boogie_Green
+P	6	5	0	0	0	3524	166	574	11	4243	Boogie_Green
 P	7	15	3	0	0	3265	103	567	5	3777	TOMATON chan
 P	8	18	0	0	0	3591	33	607	5	3748	Gaietta1999
 P	9	31	0	0	0	3619	17	684	3	3702	NikoLink
@@ -22,7 +22,7 @@ P	20	23	0	0	0	1338	5	306	3	1373	Chomik465
 P	21	12	1	0	0	1017	25	188	3	1157	_lof_
 P	22	28	1	0	0	808	38	220	3	1000	Lesik_fox
 P	23	25	0	0	0	873	8	140	3	920	Aureal VR
-P	24	33	0	0	0	658	9	160	1	699	JAM-SHOOT
+P	24	33	0	0	0	805	10	198	2	855	JAM-SHOOT
 P	25	14	0	0	0	482	19	49	2	568	[1] Local Player
 P	26	21	0	0	0	105	10	14	1	150	_Elizabet_
 P	27	3	0	0	0	98	2	18	1	111	text․r d1ce
@@ -31,7 +31,7 @@ R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
 R	pk	1	1	2250	Deryvier
 R	pk	2	4	753	RayProtogn
-R	pk	3	5	156	Boogie_Green
+R	pk	3	5	166	Boogie_Green
 R	ik	1	1	30284	Deryvier
 R	ik	2	6	9158	persikzdes
 R	ik	3	4	6716	RayProtogn
@@ -46,4 +46,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	83	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	8	13	RT25
-Z	48	94771	4286	17288	216
+Z	48	95132	4297	17377	219
