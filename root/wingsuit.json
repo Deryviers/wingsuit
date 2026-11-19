@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T04:44:55+00:00",
-    "players": 67,
+    "updated": "2026-11-19T04:46:55+00:00",
+    "players": 69,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 75,
-        "a": 171057,
-        "b": 8652,
-        "c": 30059,
-        "e": 379
+        "a": 171883,
+        "b": 8678,
+        "c": 30226,
+        "e": 382
     },
     "top": [
         {
@@ -517,6 +517,19 @@
         },
         {
             "rank": 39,
+            "id": 53,
+            "name": "Shawty-Doowop7",
+            "points": 1559,
+            "w": 4,
+            "l": 0,
+            "d": 0,
+            "a": 1393,
+            "b": 9,
+            "c": 248,
+            "e": 6
+        },
+        {
+            "rank": 40,
             "id": 22,
             "name": "Flintツ",
             "points": 1528,
@@ -529,7 +542,7 @@
             "e": 4
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 72,
             "name": "MysterSyn",
             "points": 1469,
@@ -542,7 +555,7 @@
             "e": 5
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 73,
             "name": "core-potte",
             "points": 1453,
@@ -553,19 +566,6 @@
             "b": 8,
             "c": 221,
             "e": 2
-        },
-        {
-            "rank": 42,
-            "id": 53,
-            "name": "Shawty-Doowop7",
-            "points": 1375,
-            "w": 4,
-            "l": 0,
-            "d": 0,
-            "a": 1230,
-            "b": 5,
-            "c": 223,
-            "e": 5
         },
         {
             "rank": 43,
@@ -777,6 +777,19 @@
         },
         {
             "rank": 59,
+            "id": 80,
+            "name": "_stritrim",
+            "points": 427,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 398,
+            "b": 6,
+            "c": 61,
+            "e": 1
+        },
+        {
+            "rank": 60,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -789,7 +802,7 @@
             "e": 1
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 79,
             "name": "LilZombiePuppy",
             "points": 379,
@@ -802,7 +815,7 @@
             "e": 1
         },
         {
-            "rank": 61,
+            "rank": 62,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -815,7 +828,20 @@
             "e": 1
         },
         {
-            "rank": 62,
+            "rank": 63,
+            "id": 77,
+            "name": "Slater-_-",
+            "points": 334,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 265,
+            "b": 16,
+            "c": 81,
+            "e": 1
+        },
+        {
+            "rank": 64,
             "id": 74,
             "name": "크리본_Cribon",
             "points": 329,
@@ -828,7 +854,7 @@
             "e": 1
         },
         {
-            "rank": 63,
+            "rank": 65,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -841,7 +867,7 @@
             "e": 1
         },
         {
-            "rank": 64,
+            "rank": 66,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -854,7 +880,7 @@
             "e": 1
         },
         {
-            "rank": 65,
+            "rank": 67,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -867,7 +893,7 @@
             "e": 1
         },
         {
-            "rank": 66,
+            "rank": 68,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -880,7 +906,7 @@
             "e": 1
         },
         {
-            "rank": 67,
+            "rank": 69,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
