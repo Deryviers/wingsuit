@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T02:15:31+00:00",
+    "updated": "2026-11-19T02:17:35+00:00",
     "players": 53,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 67,
-        "a": 137431,
-        "b": 6780,
-        "c": 24490,
-        "e": 318
+        "a": 138684,
+        "b": 6970,
+        "c": 24674,
+        "e": 320
     },
     "top": [
         {
@@ -179,6 +179,19 @@
         },
         {
             "rank": 13,
+            "id": 59,
+            "name": "BEAST OF BANYUE",
+            "points": 3259,
+            "w": 2,
+            "l": 0,
+            "d": 0,
+            "a": 2567,
+            "b": 153,
+            "c": 334,
+            "e": 6
+        },
+        {
+            "rank": 14,
             "id": 16,
             "name": "AngeloPal84",
             "points": 3037,
@@ -191,20 +204,20 @@
             "e": 5
         },
         {
-            "rank": 14,
-            "id": 59,
-            "name": "BEAST OF BANYUE",
-            "points": 2845,
-            "w": 2,
+            "rank": 15,
+            "id": 61,
+            "name": "gloodgy",
+            "points": 2963,
+            "w": 0,
             "l": 0,
             "d": 0,
-            "a": 2198,
-            "b": 143,
-            "c": 289,
-            "e": 5
+            "a": 2039,
+            "b": 226,
+            "c": 348,
+            "e": 4
         },
         {
-            "rank": 15,
+            "rank": 16,
             "id": 44,
             "name": "Korvi",
             "points": 2635,
@@ -217,7 +230,7 @@
             "e": 4
         },
         {
-            "rank": 16,
+            "rank": 17,
             "id": 33,
             "name": "JAM-SHOOT",
             "points": 2609,
@@ -230,7 +243,7 @@
             "e": 3
         },
         {
-            "rank": 17,
+            "rank": 18,
             "id": 20,
             "name": "ХPEH",
             "points": 2589,
@@ -243,7 +256,7 @@
             "e": 12
         },
         {
-            "rank": 18,
+            "rank": 19,
             "id": 13,
             "name": "No iD×",
             "points": 2469,
@@ -256,7 +269,7 @@
             "e": 3
         },
         {
-            "rank": 19,
+            "rank": 20,
             "id": 9,
             "name": "Nootau",
             "points": 2455,
@@ -269,7 +282,7 @@
             "e": 3
         },
         {
-            "rank": 20,
+            "rank": 21,
             "id": 38,
             "name": "Pix XD",
             "points": 2310,
@@ -282,7 +295,7 @@
             "e": 5
         },
         {
-            "rank": 21,
+            "rank": 22,
             "id": 26,
             "name": "NEKROLOQ",
             "points": 2292,
@@ -295,7 +308,7 @@
             "e": 4
         },
         {
-            "rank": 22,
+            "rank": 23,
             "id": 60,
             "name": "༒｟KINGWAFFLE｠༒",
             "points": 2276,
@@ -308,7 +321,7 @@
             "e": 5
         },
         {
-            "rank": 23,
+            "rank": 24,
             "id": 29,
             "name": "-Bim",
             "points": 1994,
@@ -321,7 +334,7 @@
             "e": 3
         },
         {
-            "rank": 24,
+            "rank": 25,
             "id": 27,
             "name": "VLΑD",
             "points": 1977,
@@ -334,7 +347,7 @@
             "e": 4
         },
         {
-            "rank": 25,
+            "rank": 26,
             "id": 17,
             "name": "Ana_AP",
             "points": 1952,
@@ -347,7 +360,7 @@
             "e": 6
         },
         {
-            "rank": 26,
+            "rank": 27,
             "id": 35,
             "name": "Galaxy_9Volt",
             "points": 1874,
@@ -360,7 +373,7 @@
             "e": 3
         },
         {
-            "rank": 27,
+            "rank": 28,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -373,7 +386,7 @@
             "e": 3
         },
         {
-            "rank": 28,
+            "rank": 29,
             "id": 52,
             "name": "turtle4200",
             "points": 1743,
@@ -386,7 +399,7 @@
             "e": 4
         },
         {
-            "rank": 29,
+            "rank": 30,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -399,7 +412,7 @@
             "e": 3
         },
         {
-            "rank": 30,
+            "rank": 31,
             "id": 22,
             "name": "Flintツ",
             "points": 1528,
@@ -412,7 +425,7 @@
             "e": 4
         },
         {
-            "rank": 31,
+            "rank": 32,
             "id": 23,
             "name": "Chomik465",
             "points": 1373,
@@ -422,19 +435,6 @@
             "a": 1338,
             "b": 5,
             "c": 306,
-            "e": 3
-        },
-        {
-            "rank": 32,
-            "id": 61,
-            "name": "gloodgy",
-            "points": 1354,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 1155,
-            "b": 46,
-            "c": 209,
             "e": 3
         },
         {
