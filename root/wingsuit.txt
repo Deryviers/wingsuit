@@ -1,4 +1,4 @@
-T3	wingsuit	85	points	25	0	0	1	4	10	0	5
+T3	wingsuit	86	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	61	0	0	0	8883	884	1476	14	12489	gloodgy
@@ -74,16 +74,17 @@ P	72	50	0	0	0	594	8	91	2	636	Rusty Beans
 P	73	14	0	0	0	528	20	56	3	623	[1] Local Player
 P	74	93	0	0	0	604	1	105	1	613	BALLZ_831 7b79
 P	75	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	76	64	0	0	0	408	1	53	1	417	- PomPom -
-P	77	54	0	0	0	314	11	44	1	363	darkness66688
-P	78	100	0	0	0	278	16	43	1	347	Mikarza
-P	79	74	0	0	0	300	6	77	1	329	크리본_Cribon
-P	80	36	0	0	0	159	16	20	1	228	TikaBundles
-P	81	85	0	0	0	206	0	36	1	211	けだまおばけ
-P	82	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	83	45	0	0	0	129	1	23	1	138	The Oxorak
-P	84	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	85	56	0	0	0	44	1	7	1	53	Amillieo
+P	76	102	0	0	0	413	4	45	1	434	STAR_126
+P	77	64	0	0	0	408	1	53	1	417	- PomPom -
+P	78	54	0	0	0	314	11	44	1	363	darkness66688
+P	79	100	0	0	0	278	16	43	1	347	Mikarza
+P	80	74	0	0	0	300	6	77	1	329	크리본_Cribon
+P	81	36	0	0	0	159	16	20	1	228	TikaBundles
+P	82	85	0	0	0	206	0	36	1	211	けだまおばけ
+P	83	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	84	45	0	0	0	129	1	23	1	138	The Oxorak
+P	85	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	86	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -104,4 +105,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	87	211178	11296	36922	459
+Z	87	211591	11300	36967	460
