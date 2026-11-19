@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T03:38:35+00:00",
-    "players": 63,
+    "updated": "2026-11-19T04:04:54+00:00",
+    "players": 64,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 74,
-        "a": 163714,
-        "b": 8369,
-        "c": 28851,
-        "e": 367
+        "a": 164014,
+        "b": 8375,
+        "c": 28928,
+        "e": 368
     },
     "top": [
         {
@@ -777,6 +777,19 @@
         },
         {
             "rank": 59,
+            "id": 74,
+            "name": "크리본_Cribon",
+            "points": 329,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 300,
+            "b": 6,
+            "c": 77,
+            "e": 1
+        },
+        {
+            "rank": 60,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -789,7 +802,7 @@
             "e": 1
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -802,7 +815,7 @@
             "e": 1
         },
         {
-            "rank": 61,
+            "rank": 62,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -815,7 +828,7 @@
             "e": 1
         },
         {
-            "rank": 62,
+            "rank": 63,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -828,7 +841,7 @@
             "e": 1
         },
         {
-            "rank": 63,
+            "rank": 64,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
