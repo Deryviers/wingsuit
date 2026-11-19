@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T01:25:12+00:00",
-    "players": 42,
+    "updated": "2026-11-19T01:27:34+00:00",
+    "players": 44,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 60,
-        "a": 124746,
-        "b": 6319,
-        "c": 22570,
-        "e": 284
+        "a": 125535,
+        "b": 6342,
+        "c": 22683,
+        "e": 286
     },
     "top": [
         {
@@ -491,6 +491,19 @@
         },
         {
             "rank": 37,
+            "id": 50,
+            "name": "Rusty Beans",
+            "points": 548,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 519,
+            "b": 6,
+            "c": 83,
+            "e": 1
+        },
+        {
+            "rank": 38,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -503,7 +516,20 @@
             "e": 1
         },
         {
-            "rank": 38,
+            "rank": 39,
+            "id": 51,
+            "name": "PollenTomorrow",
+            "points": 343,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 270,
+            "b": 17,
+            "c": 30,
+            "e": 1
+        },
+        {
+            "rank": 40,
             "id": 49,
             "name": "Kyutatsuki",
             "points": 249,
@@ -516,7 +542,7 @@
             "e": 1
         },
         {
-            "rank": 39,
+            "rank": 41,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -529,7 +555,7 @@
             "e": 1
         },
         {
-            "rank": 40,
+            "rank": 42,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -542,7 +568,7 @@
             "e": 1
         },
         {
-            "rank": 41,
+            "rank": 43,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -555,7 +581,7 @@
             "e": 1
         },
         {
-            "rank": 42,
+            "rank": 44,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
