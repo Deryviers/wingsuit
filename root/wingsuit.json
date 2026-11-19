@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T02:06:58+00:00",
-    "players": 52,
+    "updated": "2026-11-19T02:09:24+00:00",
+    "players": 53,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 65,
-        "a": 132398,
-        "b": 6587,
-        "c": 23736,
-        "e": 308
+        "games": 66,
+        "a": 134163,
+        "b": 6657,
+        "c": 23996,
+        "e": 312
     },
     "top": [
         {
@@ -387,6 +387,19 @@
         },
         {
             "rank": 29,
+            "id": 59,
+            "name": "BEAST OF BANYUE",
+            "points": 1431,
+            "w": 1,
+            "l": 0,
+            "d": 0,
+            "a": 1119,
+            "b": 68,
+            "c": 139,
+            "e": 3
+        },
+        {
+            "rank": 30,
             "id": 23,
             "name": "Chomik465",
             "points": 1373,
@@ -399,7 +412,7 @@
             "e": 3
         },
         {
-            "rank": 30,
+            "rank": 31,
             "id": 40,
             "name": "Slim Sweaty",
             "points": 1280,
@@ -412,7 +425,7 @@
             "e": 4
         },
         {
-            "rank": 31,
+            "rank": 32,
             "id": 49,
             "name": "Kyutatsuki",
             "points": 1196,
@@ -425,7 +438,7 @@
             "e": 4
         },
         {
-            "rank": 32,
+            "rank": 33,
             "id": 46,
             "name": "Elais_Ainsworth",
             "points": 1166,
@@ -438,7 +451,7 @@
             "e": 3
         },
         {
-            "rank": 33,
+            "rank": 34,
             "id": 12,
             "name": "_lof_",
             "points": 1157,
@@ -451,7 +464,7 @@
             "e": 3
         },
         {
-            "rank": 34,
+            "rank": 35,
             "id": 48,
             "name": "モクターン",
             "points": 1155,
@@ -464,7 +477,7 @@
             "e": 1
         },
         {
-            "rank": 35,
+            "rank": 36,
             "id": 57,
             "name": "Amai Akai",
             "points": 1122,
@@ -477,7 +490,7 @@
             "e": 2
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -490,7 +503,7 @@
             "e": 3
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -503,7 +516,7 @@
             "e": 1
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -516,7 +529,7 @@
             "e": 3
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 914,
@@ -529,7 +542,20 @@
             "e": 4
         },
         {
-            "rank": 40,
+            "rank": 41,
+            "id": 60,
+            "name": "༒｟KINGWAFFLE｠༒",
+            "points": 889,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 870,
+            "b": 1,
+            "c": 140,
+            "e": 3
+        },
+        {
+            "rank": 42,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -542,7 +568,7 @@
             "e": 2
         },
         {
-            "rank": 41,
+            "rank": 43,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -555,7 +581,7 @@
             "e": 1
         },
         {
-            "rank": 42,
+            "rank": 44,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -568,7 +594,7 @@
             "e": 2
         },
         {
-            "rank": 43,
+            "rank": 45,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -581,7 +607,7 @@
             "e": 3
         },
         {
-            "rank": 44,
+            "rank": 46,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -594,20 +620,7 @@
             "e": 1
         },
         {
-            "rank": 45,
-            "id": 59,
-            "name": "BEAST OF BANYUE",
-            "points": 431,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 418,
-            "b": 2,
-            "c": 47,
-            "e": 1
-        },
-        {
-            "rank": 46,
+            "rank": 47,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -620,7 +633,20 @@
             "e": 1
         },
         {
-            "rank": 47,
+            "rank": 48,
+            "id": 61,
+            "name": "gloodgy",
+            "points": 340,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 323,
+            "b": 3,
+            "c": 55,
+            "e": 1
+        },
+        {
+            "rank": 49,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -633,7 +659,7 @@
             "e": 1
         },
         {
-            "rank": 48,
+            "rank": 50,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -646,20 +672,7 @@
             "e": 1
         },
         {
-            "rank": 49,
-            "id": 60,
-            "name": "༒｟KINGWAFFLE｠༒",
-            "points": 139,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 129,
-            "b": 0,
-            "c": 27,
-            "e": 2
-        },
-        {
-            "rank": 50,
+            "rank": 51,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -672,7 +685,7 @@
             "e": 1
         },
         {
-            "rank": 51,
+            "rank": 52,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -685,7 +698,7 @@
             "e": 1
         },
         {
-            "rank": 52,
+            "rank": 53,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
