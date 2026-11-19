@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T02:39:01+00:00",
+    "updated": "2026-11-19T02:41:59+00:00",
     "players": 56,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 71,
-        "a": 150249,
-        "b": 7781,
-        "c": 26400,
-        "e": 344
+        "a": 150854,
+        "b": 7792,
+        "c": 26463,
+        "e": 346
     },
     "top": [
         {
@@ -582,6 +582,19 @@
         },
         {
             "rank": 44,
+            "id": 62,
+            "name": "Redheartxd23",
+            "points": 833,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 758,
+            "b": 15,
+            "c": 79,
+            "e": 3
+        },
+        {
+            "rank": 45,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -594,7 +607,7 @@
             "e": 2
         },
         {
-            "rank": 45,
+            "rank": 46,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -607,7 +620,7 @@
             "e": 1
         },
         {
-            "rank": 46,
+            "rank": 47,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -620,7 +633,7 @@
             "e": 2
         },
         {
-            "rank": 47,
+            "rank": 48,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -633,7 +646,7 @@
             "e": 3
         },
         {
-            "rank": 48,
+            "rank": 49,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -646,7 +659,7 @@
             "e": 1
         },
         {
-            "rank": 49,
+            "rank": 50,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -659,7 +672,7 @@
             "e": 1
         },
         {
-            "rank": 50,
+            "rank": 51,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -672,7 +685,7 @@
             "e": 1
         },
         {
-            "rank": 51,
+            "rank": 52,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -682,19 +695,6 @@
             "a": 159,
             "b": 16,
             "c": 20,
-            "e": 1
-        },
-        {
-            "rank": 52,
-            "id": 62,
-            "name": "Redheartxd23",
-            "points": 174,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 153,
-            "b": 4,
-            "c": 16,
             "e": 1
         },
         {
