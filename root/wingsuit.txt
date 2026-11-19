@@ -24,7 +24,7 @@ P	22	12	1	0	0	1017	25	188	3	1157	_lof_
 P	23	28	1	0	0	808	38	220	3	1000	Lesik_fox
 P	24	25	0	0	0	873	8	140	3	920	Aureal VR
 P	25	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	26	14	0	0	0	482	19	49	2	568	[1] Local Player
+P	26	14	0	0	0	528	20	56	3	623	[1] Local Player
 P	27	21	0	0	0	105	10	14	1	150	_Elizabet_
 P	28	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	18	Deryvier
@@ -47,4 +47,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	53	104616	5645	18757	240
+Z	53	104662	5646	18764	241
