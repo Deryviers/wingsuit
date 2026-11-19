@@ -1,4 +1,4 @@
-T3	wingsuit	96	points	25	0	0	1	4	10	0	5
+T3	wingsuit	97	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	61	0	0	0	8883	884	1476	14	12489	gloodgy
@@ -94,7 +94,8 @@ P	92	85	0	0	0	206	0	36	1	211	けだまおばけ
 P	93	21	0	0	0	105	10	14	1	150	_Elizabet_
 P	94	45	0	0	0	129	1	23	1	138	The Oxorak
 P	95	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	96	56	0	0	0	44	1	7	1	53	Amillieo
+P	96	115	0	0	0	55	6	8	1	84	nanaharu4523
+P	97	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -115,4 +116,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	90	222481	11711	38527	483
+Z	90	222536	11717	38535	484
