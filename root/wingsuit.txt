@@ -1,4 +1,4 @@
-T3	wingsuit	46	points	25	0	0	1	4	10	0	5
+T3	wingsuit	48	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
@@ -24,27 +24,29 @@ P	22	27	0	0	0	1841	29	326	4	1977	VLΑD
 P	23	17	0	0	0	1762	40	379	6	1952	Ana_AP
 P	24	35	0	0	0	1775	21	381	3	1874	Galaxy_9Volt
 P	25	37	0	0	0	1592	50	257	3	1807	Meatgurt
-P	26	51	0	0	0	1433	61	216	3	1692	PollenTomorrow
-P	27	22	0	0	0	1056	113	145	4	1528	Flintツ
-P	28	23	0	0	0	1338	5	306	3	1373	Chomik465
-P	29	40	0	0	0	1156	26	357	4	1280	Slim Sweaty
-P	30	49	0	0	0	988	47	122	4	1196	Kyutatsuki
-P	31	46	0	0	0	1131	5	245	3	1166	Elais_Ainsworth
-P	32	12	1	0	0	1017	25	188	3	1157	_lof_
-P	33	48	0	0	0	1070	20	154	1	1155	モクターン
-P	34	28	1	0	0	808	38	220	3	1000	Lesik_fox
-P	35	25	0	0	0	873	8	140	3	920	Aureal VR
-P	36	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	37	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	38	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	39	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	40	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	41	52	0	0	0	112	61	17	3	371	turtle4200
-P	42	53	0	0	0	293	3	50	1	310	Shawty-Doowop7
-P	43	36	0	0	0	159	16	20	1	228	TikaBundles
-P	44	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	45	45	0	0	0	129	1	23	1	138	The Oxorak
-P	46	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	26	52	1	0	0	1338	90	248	4	1743	turtle4200
+P	27	51	0	0	0	1433	61	216	3	1692	PollenTomorrow
+P	28	22	0	0	0	1056	113	145	4	1528	Flintツ
+P	29	23	0	0	0	1338	5	306	3	1373	Chomik465
+P	30	40	0	0	0	1156	26	357	4	1280	Slim Sweaty
+P	31	49	0	0	0	988	47	122	4	1196	Kyutatsuki
+P	32	46	0	0	0	1131	5	245	3	1166	Elais_Ainsworth
+P	33	12	1	0	0	1017	25	188	3	1157	_lof_
+P	34	48	0	0	0	1070	20	154	1	1155	モクターン
+P	35	28	1	0	0	808	38	220	3	1000	Lesik_fox
+P	36	55	1	0	0	863	9	117	1	929	VeRiX_
+P	37	25	0	0	0	873	8	140	3	920	Aureal VR
+P	38	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	39	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	40	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	41	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	42	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	43	54	0	0	0	314	11	44	1	363	darkness66688
+P	44	53	0	0	0	293	3	50	1	310	Shawty-Doowop7
+P	45	36	0	0	0	159	16	20	1	228	TikaBundles
+P	46	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	47	45	0	0	0	129	1	23	1	138	The Oxorak
+P	48	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -65,4 +67,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	60	127922	6499	23029	296
+Z	62	130325	6548	23421	299
