@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T05:51:59+00:00",
+    "updated": "2026-11-19T05:53:59+00:00",
     "players": 75,
     "sort": "points",
     "weights": {
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 80,
-        "a": 188981,
-        "b": 9432,
-        "c": 33605,
-        "e": 417
+        "games": 81,
+        "a": 190187,
+        "b": 9471,
+        "c": 33752,
+        "e": 419
     },
     "top": [
         {
@@ -114,6 +114,19 @@
         },
         {
             "rank": 8,
+            "id": 82,
+            "name": "mulch67",
+            "points": 5198,
+            "w": 2,
+            "l": 0,
+            "d": 0,
+            "a": 4311,
+            "b": 198,
+            "c": 658,
+            "e": 9
+        },
+        {
+            "rank": 9,
             "id": 5,
             "name": "Boogie_Green",
             "points": 4886,
@@ -126,7 +139,7 @@
             "e": 13
         },
         {
-            "rank": 9,
+            "rank": 10,
             "id": 8,
             "name": "RT25",
             "points": 4867,
@@ -139,7 +152,7 @@
             "e": 13
         },
         {
-            "rank": 10,
+            "rank": 11,
             "id": 60,
             "name": "༒｟KINGWAFFLE｠༒",
             "points": 4771,
@@ -150,19 +163,6 @@
             "b": 139,
             "c": 621,
             "e": 9
-        },
-        {
-            "rank": 11,
-            "id": 82,
-            "name": "mulch67",
-            "points": 4764,
-            "w": 1,
-            "l": 0,
-            "d": 0,
-            "a": 3911,
-            "b": 197,
-            "c": 613,
-            "e": 8
         },
         {
             "rank": 12,
@@ -387,6 +387,19 @@
         },
         {
             "rank": 29,
+            "id": 86,
+            "name": "legerity",
+            "points": 2336,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 2077,
+            "b": 61,
+            "c": 327,
+            "e": 3
+        },
+        {
+            "rank": 30,
             "id": 38,
             "name": "Pix XD",
             "points": 2310,
@@ -399,7 +412,7 @@
             "e": 5
         },
         {
-            "rank": 30,
+            "rank": 31,
             "id": 26,
             "name": "NEKROLOQ",
             "points": 2292,
@@ -412,7 +425,7 @@
             "e": 4
         },
         {
-            "rank": 31,
+            "rank": 32,
             "id": 67,
             "name": "Jaye Invicta",
             "points": 2250,
@@ -425,7 +438,7 @@
             "e": 2
         },
         {
-            "rank": 32,
+            "rank": 33,
             "id": 29,
             "name": "-Bim",
             "points": 1994,
@@ -438,7 +451,7 @@
             "e": 3
         },
         {
-            "rank": 33,
+            "rank": 34,
             "id": 27,
             "name": "VLΑD",
             "points": 1977,
@@ -451,7 +464,7 @@
             "e": 4
         },
         {
-            "rank": 34,
+            "rank": 35,
             "id": 17,
             "name": "Ana_AP",
             "points": 1952,
@@ -464,7 +477,7 @@
             "e": 6
         },
         {
-            "rank": 35,
+            "rank": 36,
             "id": 62,
             "name": "Redheartxd23",
             "points": 1946,
@@ -477,7 +490,7 @@
             "e": 4
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 35,
             "name": "Galaxy_9Volt",
             "points": 1874,
@@ -490,7 +503,7 @@
             "e": 3
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 1818,
@@ -503,7 +516,7 @@
             "e": 7
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -516,7 +529,7 @@
             "e": 3
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -529,7 +542,7 @@
             "e": 3
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 69,
             "name": "アリーズ",
             "points": 1687,
@@ -542,7 +555,7 @@
             "e": 2
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 79,
             "name": "LilZombiePuppy",
             "points": 1662,
@@ -555,7 +568,7 @@
             "e": 7
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 65,
             "name": "TheEolos 4ea8",
             "points": 1637,
@@ -568,7 +581,7 @@
             "e": 3
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 68,
             "name": "ᴇᴍᴍɪ",
             "points": 1605,
@@ -581,7 +594,7 @@
             "e": 2
         },
         {
-            "rank": 44,
+            "rank": 45,
             "id": 71,
             "name": "oliveyous",
             "points": 1572,
@@ -594,7 +607,7 @@
             "e": 3
         },
         {
-            "rank": 45,
+            "rank": 46,
             "id": 22,
             "name": "Flintツ",
             "points": 1528,
@@ -607,7 +620,7 @@
             "e": 4
         },
         {
-            "rank": 46,
+            "rank": 47,
             "id": 72,
             "name": "MysterSyn",
             "points": 1469,
@@ -620,7 +633,7 @@
             "e": 5
         },
         {
-            "rank": 47,
+            "rank": 48,
             "id": 73,
             "name": "core-potte",
             "points": 1453,
@@ -633,7 +646,7 @@
             "e": 2
         },
         {
-            "rank": 48,
+            "rank": 49,
             "id": 23,
             "name": "Chomik465",
             "points": 1373,
@@ -644,19 +657,6 @@
             "b": 5,
             "c": 306,
             "e": 3
-        },
-        {
-            "rank": 49,
-            "id": 86,
-            "name": "legerity",
-            "points": 1373,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 1271,
-            "b": 23,
-            "c": 225,
-            "e": 2
         },
         {
             "rank": 50,
