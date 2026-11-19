@@ -1,4 +1,4 @@
-T3	wingsuit	57	points	25	0	0	1	4	10	0	5
+T3	wingsuit	59	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	61	0	0	0	8883	884	1476	14	12489	gloodgy
@@ -35,27 +35,29 @@ P	33	22	0	0	0	1056	113	145	4	1528	Flintツ
 P	34	23	0	0	0	1338	5	306	3	1373	Chomik465
 P	35	40	0	0	0	1156	26	357	4	1280	Slim Sweaty
 P	36	49	0	0	0	988	47	122	4	1196	Kyutatsuki
-P	37	46	0	0	0	1131	5	245	3	1166	Elais_Ainsworth
-P	38	12	1	0	0	1017	25	188	3	1157	_lof_
-P	39	48	0	0	0	1070	20	154	1	1155	モクターン
-P	40	57	0	0	0	976	34	151	2	1122	Amai Akai
-P	41	28	1	0	0	808	38	220	3	1000	Lesik_fox
-P	42	55	1	0	0	863	9	117	1	929	VeRiX_
-P	43	25	0	0	0	873	8	140	3	920	Aureal VR
-P	44	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
-P	45	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	46	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	47	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	48	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	49	68	0	0	0	534	2	145	1	547	ᴇᴍᴍɪ
-P	50	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	51	64	0	0	0	408	1	53	1	417	- PomPom -
-P	52	54	0	0	0	314	11	44	1	363	darkness66688
-P	53	36	0	0	0	159	16	20	1	228	TikaBundles
-P	54	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	55	45	0	0	0	129	1	23	1	138	The Oxorak
-P	56	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	57	56	0	0	0	44	1	7	1	53	Amillieo
+P	37	67	0	0	0	1152	5	224	1	1177	Jaye Invicta
+P	38	46	0	0	0	1131	5	245	3	1166	Elais_Ainsworth
+P	39	12	1	0	0	1017	25	188	3	1157	_lof_
+P	40	48	0	0	0	1070	20	154	1	1155	モクターン
+P	41	57	0	0	0	976	34	151	2	1122	Amai Akai
+P	42	28	1	0	0	808	38	220	3	1000	Lesik_fox
+P	43	55	1	0	0	863	9	117	1	929	VeRiX_
+P	44	25	0	0	0	873	8	140	3	920	Aureal VR
+P	45	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
+P	46	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	47	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	48	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	49	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	50	68	0	0	0	534	2	145	1	547	ᴇᴍᴍɪ
+P	51	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	52	64	0	0	0	408	1	53	1	417	- PomPom -
+P	53	54	0	0	0	314	11	44	1	363	darkness66688
+P	54	69	0	0	0	327	5	54	1	352	アリーズ
+P	55	36	0	0	0	159	16	20	1	228	TikaBundles
+P	56	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	57	45	0	0	0	129	1	23	1	138	The Oxorak
+P	58	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	59	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -76,4 +78,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	71	153585	7972	27196	349
+Z	71	155064	7982	27474	351
