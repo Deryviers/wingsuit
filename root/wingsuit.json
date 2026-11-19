@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T02:30:17+00:00",
-    "players": 54,
+    "updated": "2026-11-19T02:32:48+00:00",
+    "players": 55,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 69,
-        "a": 147173,
-        "b": 7572,
-        "c": 25942,
-        "e": 336
+        "games": 70,
+        "a": 148335,
+        "b": 7627,
+        "c": 26113,
+        "e": 339
     },
     "top": [
         {
@@ -64,27 +64,27 @@
             "rank": 4,
             "id": 61,
             "name": "gloodgy",
-            "points": 8601,
+            "points": 9305,
             "w": 0,
             "l": 0,
             "d": 0,
-            "a": 6227,
-            "b": 581,
-            "c": 996,
-            "e": 10
+            "a": 6754,
+            "b": 624,
+            "c": 1059,
+            "e": 11
         },
         {
             "rank": 5,
             "id": 59,
             "name": "BEAST OF BANYUE",
-            "points": 5736,
+            "points": 5845,
             "w": 3,
             "l": 0,
             "d": 0,
-            "a": 4542,
+            "a": 4646,
             "b": 266,
-            "c": 610,
-            "e": 11
+            "c": 632,
+            "e": 12
         },
         {
             "rank": 6,
@@ -621,6 +621,19 @@
         },
         {
             "rank": 47,
+            "id": 65,
+            "name": "TheEolos 4ea8",
+            "points": 609,
+            "w": 1,
+            "l": 0,
+            "d": 0,
+            "a": 531,
+            "b": 12,
+            "c": 86,
+            "e": 1
+        },
+        {
+            "rank": 48,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -633,7 +646,7 @@
             "e": 1
         },
         {
-            "rank": 48,
+            "rank": 49,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -646,7 +659,7 @@
             "e": 1
         },
         {
-            "rank": 49,
+            "rank": 50,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -659,7 +672,7 @@
             "e": 1
         },
         {
-            "rank": 50,
+            "rank": 51,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -672,7 +685,7 @@
             "e": 1
         },
         {
-            "rank": 51,
+            "rank": 52,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -685,7 +698,7 @@
             "e": 1
         },
         {
-            "rank": 52,
+            "rank": 53,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -698,7 +711,7 @@
             "e": 1
         },
         {
-            "rank": 53,
+            "rank": 54,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -711,7 +724,7 @@
             "e": 1
         },
         {
-            "rank": 54,
+            "rank": 55,
             "id": 56,
             "name": "Amillieo",
             "points": 53,

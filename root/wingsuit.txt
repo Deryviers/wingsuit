@@ -1,9 +1,9 @@
-T3	wingsuit	54	points	25	0	0	1	4	10	0	5
+T3	wingsuit	55	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
-P	4	61	0	0	0	6227	581	996	10	8601	gloodgy
-P	5	59	3	0	0	4542	266	610	11	5736	BEAST OF BANYUE
+P	4	61	0	0	0	6754	624	1059	11	9305	gloodgy
+P	5	59	3	0	0	4646	266	632	12	5845	BEAST OF BANYUE
 P	6	42	5	0	0	4322	262	625	8	5535	SycoDad1972
 P	7	5	0	0	0	4149	168	683	13	4886	Boogie_Green
 P	8	8	8	0	0	4486	29	924	13	4867	RT25
@@ -45,20 +45,21 @@ P	43	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
 P	44	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
 P	45	50	0	0	0	594	8	91	2	636	Rusty Beans
 P	46	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	47	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	48	64	0	0	0	408	1	53	1	417	- PomPom -
-P	49	54	0	0	0	314	11	44	1	363	darkness66688
-P	50	36	0	0	0	159	16	20	1	228	TikaBundles
-P	51	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	52	45	0	0	0	129	1	23	1	138	The Oxorak
-P	53	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	54	56	0	0	0	44	1	7	1	53	Amillieo
+P	47	65	1	0	0	531	12	86	1	609	TheEolos 4ea8
+P	48	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	49	64	0	0	0	408	1	53	1	417	- PomPom -
+P	50	54	0	0	0	314	11	44	1	363	darkness66688
+P	51	36	0	0	0	159	16	20	1	228	TikaBundles
+P	52	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	53	45	0	0	0	129	1	23	1	138	The Oxorak
+P	54	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	55	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
 R	pk	1	1	2500	Deryvier
 R	pk	2	4	1781	RayProtogn
-R	pk	3	61	581	gloodgy
+R	pk	3	61	624	gloodgy
 R	ik	1	1	33823	Deryvier
 R	ik	2	4	9797	RayProtogn
 R	ik	3	6	9158	persikzdes
@@ -73,4 +74,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	69	147173	7572	25942	336
+Z	70	148335	7627	26113	339
