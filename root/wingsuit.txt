@@ -1,4 +1,4 @@
-T3	wingsuit	61	points	25	0	0	1	4	10	0	5
+T3	wingsuit	62	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	61	0	0	0	8883	884	1476	14	12489	gloodgy
@@ -28,8 +28,8 @@ P	26	27	0	0	0	1841	29	326	4	1977	VLΑD
 P	27	17	0	0	0	1762	40	379	6	1952	Ana_AP
 P	28	62	0	0	0	1746	45	391	4	1946	Redheartxd23
 P	29	35	0	0	0	1775	21	381	3	1874	Galaxy_9Volt
-P	30	37	0	0	0	1592	50	257	3	1807	Meatgurt
-P	31	52	1	0	0	1338	90	248	4	1743	turtle4200
+P	30	52	1	0	0	1352	104	251	5	1818	turtle4200
+P	31	37	0	0	0	1592	50	257	3	1807	Meatgurt
 P	32	51	0	0	0	1433	61	216	3	1692	PollenTomorrow
 P	33	69	0	0	0	1325	88	196	2	1687	アリーズ
 P	34	65	2	0	0	1372	50	216	3	1637	TheEolos 4ea8
@@ -47,19 +47,20 @@ P	45	28	1	0	0	808	38	220	3	1000	Lesik_fox
 P	46	55	1	0	0	863	9	117	1	929	VeRiX_
 P	47	25	0	0	0	873	8	140	3	920	Aureal VR
 P	48	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
-P	49	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	50	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	51	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	52	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	53	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	54	64	0	0	0	408	1	53	1	417	- PomPom -
-P	55	54	0	0	0	314	11	44	1	363	darkness66688
-P	56	36	0	0	0	159	16	20	1	228	TikaBundles
-P	57	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	58	45	0	0	0	129	1	23	1	138	The Oxorak
-P	59	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	60	72	0	0	0	96	1	12	1	105	MysterSyn
-P	61	56	0	0	0	44	1	7	1	53	Amillieo
+P	49	71	0	0	0	774	8	111	1	811	oliveyous
+P	50	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	51	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	52	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	53	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	54	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	55	64	0	0	0	408	1	53	1	417	- PomPom -
+P	56	54	0	0	0	314	11	44	1	363	darkness66688
+P	57	36	0	0	0	159	16	20	1	228	TikaBundles
+P	58	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	59	45	0	0	0	129	1	23	1	138	The Oxorak
+P	60	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	61	72	0	0	0	96	1	12	1	105	MysterSyn
+P	62	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -80,4 +81,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	71	158796	8195	28072	356
+Z	71	159584	8217	28186	358
