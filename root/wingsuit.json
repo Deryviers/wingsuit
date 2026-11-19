@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T04:04:54+00:00",
-    "players": 64,
+    "updated": "2026-11-19T04:10:20+00:00",
+    "players": 65,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 74,
-        "a": 164014,
-        "b": 8375,
-        "c": 28928,
-        "e": 368
+        "a": 164433,
+        "b": 8403,
+        "c": 28981,
+        "e": 369
     },
     "top": [
         {
@@ -738,6 +738,19 @@
         },
         {
             "rank": 56,
+            "id": 75,
+            "name": "Chen_CiG",
+            "points": 536,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 419,
+            "b": 28,
+            "c": 53,
+            "e": 1
+        },
+        {
+            "rank": 57,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -750,7 +763,7 @@
             "e": 1
         },
         {
-            "rank": 57,
+            "rank": 58,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -763,7 +776,7 @@
             "e": 1
         },
         {
-            "rank": 58,
+            "rank": 59,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -776,7 +789,7 @@
             "e": 1
         },
         {
-            "rank": 59,
+            "rank": 60,
             "id": 74,
             "name": "크리본_Cribon",
             "points": 329,
@@ -789,7 +802,7 @@
             "e": 1
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -802,7 +815,7 @@
             "e": 1
         },
         {
-            "rank": 61,
+            "rank": 62,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -815,7 +828,7 @@
             "e": 1
         },
         {
-            "rank": 62,
+            "rank": 63,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -828,7 +841,7 @@
             "e": 1
         },
         {
-            "rank": 63,
+            "rank": 64,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -841,7 +854,7 @@
             "e": 1
         },
         {
-            "rank": 64,
+            "rank": 65,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
