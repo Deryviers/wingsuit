@@ -1,4 +1,4 @@
-T3	wingsuit	35	points	25	0	0	1	4	10	0	5
+T3	wingsuit	36	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
@@ -21,19 +21,20 @@ P	19	17	0	0	0	1762	40	379	6	1952	Ana_AP
 P	20	35	0	0	0	1775	21	381	3	1874	Galaxy_9Volt
 P	21	37	0	0	0	1592	50	257	3	1807	Meatgurt
 P	22	22	0	0	0	1056	113	145	4	1528	Flintツ
-P	23	23	0	0	0	1338	5	306	3	1373	Chomik465
-P	24	12	1	0	0	1017	25	188	3	1157	_lof_
-P	25	28	1	0	0	808	38	220	3	1000	Lesik_fox
-P	26	25	0	0	0	873	8	140	3	920	Aureal VR
-P	27	40	0	0	0	813	21	208	3	912	Slim Sweaty
-P	28	39	0	0	0	807	22	225	3	910	Gamestah
-P	29	42	0	0	0	642	48	85	1	839	SycoDad1972
+P	23	42	1	0	0	1075	72	144	2	1398	SycoDad1972
+P	24	23	0	0	0	1338	5	306	3	1373	Chomik465
+P	25	40	0	0	0	1156	26	357	4	1280	Slim Sweaty
+P	26	39	0	0	0	1133	27	330	4	1261	Gamestah
+P	27	12	1	0	0	1017	25	188	3	1157	_lof_
+P	28	28	1	0	0	808	38	220	3	1000	Lesik_fox
+P	29	25	0	0	0	873	8	140	3	920	Aureal VR
 P	30	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	31	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	32	38	1	0	0	525	5	112	2	580	Pix XD
-P	33	36	0	0	0	159	16	20	1	228	TikaBundles
-P	34	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	35	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	31	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	32	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	33	38	1	0	0	525	5	112	2	580	Pix XD
+P	34	36	0	0	0	159	16	20	1	228	TikaBundles
+P	35	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	36	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -54,4 +55,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	54	110975	5829	20052	257
+Z	55	112688	5871	20438	261
