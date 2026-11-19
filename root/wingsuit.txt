@@ -1,6 +1,6 @@
-T3	wingsuit	3720	points	25	0	0	1	4	10	0	5
+T3	wingsuit	3732	points	25	0	0	1	4	10	0	5
 P	1	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
-P	2	2844	6	0	0	10598	643	1553	40	13520	Deryvier
+P	2	2844	6	0	0	11053	643	1626	41	13980	Deryvier
 P	3	3753	4	0	0	11552	360	1916	29	13237	FireFraer 1f9b
 P	4	3145	3	0	0	8234	1188	1308	12	13121	楓味凌MapleCream
 P	5	3748	8	0	0	11447	295	1994	39	13022	hunterxcapy 8df2
@@ -97,8 +97,8 @@ P	95	2981	3	0	0	5207	56	1075	6	5536	ᴀǫᴜᴀʀɪᴀʟᴜɴᴀ
 P	96	42	5	0	0	4322	262	625	8	5535	SycoDad1972
 P	97	1261	2	0	0	5166	70	810	6	5526	Quokka_a
 P	98	3150	0	0	0	4825	161	759	10	5519	SoulReapr10 2c4d
-P	99	2273	0	0	0	4648	193	763	16	5500	sumire_すみれ
-P	100	86	2	0	0	3828	396	586	7	5497	legerity
+P	99	4226	0	0	0	5230	60	816	7	5505	_Ş1RR_
+P	100	2273	0	0	0	4648	193	763	16	5500	sumire_すみれ
 R	w	1	6	10	persikzdes
 R	w	2	2823	9	chester benn
 R	w	3	3748	8	hunterxcapy 8df2
@@ -107,7 +107,7 @@ R	pk	2	490	1653	_Ori__
 R	pk	3	3145	1188	楓味凌MapleCream
 R	ik	1	3753	11552	FireFraer 1f9b
 R	ik	2	3748	11447	hunterxcapy 8df2
-R	ik	3	2402	10720	桀JieKe_Torasu
+R	ik	3	2844	11053	Deryvier
 R	gm	1	6	10	persikzdes
 R	gm	2	2823	9	chester benn
 R	gm	3	3748	8	hunterxcapy 8df2
@@ -115,7 +115,7 @@ R	wr	1	6	1000	persikzdes
 R	c3	1	2823	3152	chester benn
 R	c3	2	724	2582	humpsy
 R	c3	3	1659	2197	Saya․∗
-R	c4	1	2844	40	Deryvier
+R	c4	1	2844	41	Deryvier
 R	c4	2	3748	39	hunterxcapy 8df2
 R	c4	3	3753	29	FireFraer 1f9b
-Z	1213	4911269	190880	838587	10121
+Z	1218	4931340	191622	841745	10161
