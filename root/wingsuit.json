@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T05:18:24+00:00",
+    "updated": "2026-11-19T05:27:41+00:00",
     "players": 71,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 77,
-        "a": 178255,
-        "b": 8924,
-        "c": 31798,
-        "e": 398
+        "a": 178795,
+        "b": 8944,
+        "c": 31914,
+        "e": 399
     },
     "top": [
         {
@@ -400,6 +400,19 @@
         },
         {
             "rank": 30,
+            "id": 82,
+            "name": "mulch67",
+            "points": 1990,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 1815,
+            "b": 40,
+            "c": 296,
+            "e": 3
+        },
+        {
+            "rank": 31,
             "id": 27,
             "name": "VLΑD",
             "points": 1977,
@@ -412,7 +425,7 @@
             "e": 4
         },
         {
-            "rank": 31,
+            "rank": 32,
             "id": 17,
             "name": "Ana_AP",
             "points": 1952,
@@ -425,7 +438,7 @@
             "e": 6
         },
         {
-            "rank": 32,
+            "rank": 33,
             "id": 62,
             "name": "Redheartxd23",
             "points": 1946,
@@ -438,7 +451,7 @@
             "e": 4
         },
         {
-            "rank": 33,
+            "rank": 34,
             "id": 35,
             "name": "Galaxy_9Volt",
             "points": 1874,
@@ -451,7 +464,7 @@
             "e": 3
         },
         {
-            "rank": 34,
+            "rank": 35,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 1818,
@@ -464,7 +477,7 @@
             "e": 7
         },
         {
-            "rank": 35,
+            "rank": 36,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -477,7 +490,7 @@
             "e": 3
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -490,7 +503,7 @@
             "e": 3
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 69,
             "name": "アリーズ",
             "points": 1687,
@@ -503,7 +516,7 @@
             "e": 2
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 79,
             "name": "LilZombiePuppy",
             "points": 1662,
@@ -516,7 +529,7 @@
             "e": 7
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 65,
             "name": "TheEolos 4ea8",
             "points": 1637,
@@ -529,7 +542,7 @@
             "e": 3
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 68,
             "name": "ᴇᴍᴍɪ",
             "points": 1605,
@@ -542,7 +555,7 @@
             "e": 2
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 71,
             "name": "oliveyous",
             "points": 1572,
@@ -555,7 +568,7 @@
             "e": 3
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 22,
             "name": "Flintツ",
             "points": 1528,
@@ -568,7 +581,7 @@
             "e": 4
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 72,
             "name": "MysterSyn",
             "points": 1469,
@@ -581,7 +594,7 @@
             "e": 5
         },
         {
-            "rank": 44,
+            "rank": 45,
             "id": 73,
             "name": "core-potte",
             "points": 1453,
@@ -594,7 +607,7 @@
             "e": 2
         },
         {
-            "rank": 45,
+            "rank": 46,
             "id": 23,
             "name": "Chomik465",
             "points": 1373,
@@ -605,19 +618,6 @@
             "b": 5,
             "c": 306,
             "e": 3
-        },
-        {
-            "rank": 46,
-            "id": 82,
-            "name": "mulch67",
-            "points": 1365,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 1275,
-            "b": 20,
-            "c": 180,
-            "e": 2
         },
         {
             "rank": 47,
