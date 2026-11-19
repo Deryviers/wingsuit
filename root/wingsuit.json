@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T02:44:41+00:00",
+    "updated": "2026-11-19T02:48:30+00:00",
     "players": 56,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 71,
-        "a": 152063,
-        "b": 7940,
-        "c": 26739,
-        "e": 347
+        "a": 153051,
+        "b": 7970,
+        "c": 27051,
+        "e": 348
     },
     "top": [
         {
@@ -361,6 +361,19 @@
         },
         {
             "rank": 27,
+            "id": 62,
+            "name": "Redheartxd23",
+            "points": 1946,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 1746,
+            "b": 45,
+            "c": 391,
+            "e": 4
+        },
+        {
+            "rank": 28,
             "id": 35,
             "name": "Galaxy_9Volt",
             "points": 1874,
@@ -373,7 +386,7 @@
             "e": 3
         },
         {
-            "rank": 28,
+            "rank": 29,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -386,7 +399,7 @@
             "e": 3
         },
         {
-            "rank": 29,
+            "rank": 30,
             "id": 52,
             "name": "turtle4200",
             "points": 1743,
@@ -399,7 +412,7 @@
             "e": 4
         },
         {
-            "rank": 30,
+            "rank": 31,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -412,7 +425,7 @@
             "e": 3
         },
         {
-            "rank": 31,
+            "rank": 32,
             "id": 65,
             "name": "TheEolos 4ea8",
             "points": 1637,
@@ -425,7 +438,7 @@
             "e": 3
         },
         {
-            "rank": 32,
+            "rank": 33,
             "id": 22,
             "name": "Flintツ",
             "points": 1528,
@@ -438,7 +451,7 @@
             "e": 4
         },
         {
-            "rank": 33,
+            "rank": 34,
             "id": 23,
             "name": "Chomik465",
             "points": 1373,
@@ -451,7 +464,7 @@
             "e": 3
         },
         {
-            "rank": 34,
+            "rank": 35,
             "id": 40,
             "name": "Slim Sweaty",
             "points": 1280,
@@ -464,7 +477,7 @@
             "e": 4
         },
         {
-            "rank": 35,
+            "rank": 36,
             "id": 49,
             "name": "Kyutatsuki",
             "points": 1196,
@@ -477,7 +490,7 @@
             "e": 4
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 46,
             "name": "Elais_Ainsworth",
             "points": 1166,
@@ -490,7 +503,7 @@
             "e": 3
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 12,
             "name": "_lof_",
             "points": 1157,
@@ -503,7 +516,7 @@
             "e": 3
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 48,
             "name": "モクターン",
             "points": 1155,
@@ -516,7 +529,7 @@
             "e": 1
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 57,
             "name": "Amai Akai",
             "points": 1122,
@@ -529,7 +542,7 @@
             "e": 2
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -542,7 +555,7 @@
             "e": 3
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -555,7 +568,7 @@
             "e": 1
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -568,7 +581,7 @@
             "e": 3
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 914,
@@ -579,19 +592,6 @@
             "b": 5,
             "c": 133,
             "e": 4
-        },
-        {
-            "rank": 44,
-            "id": 62,
-            "name": "Redheartxd23",
-            "points": 833,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 758,
-            "b": 15,
-            "c": 79,
-            "e": 3
         },
         {
             "rank": 45,
