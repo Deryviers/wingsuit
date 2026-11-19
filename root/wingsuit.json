@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T03:34:22+00:00",
+    "updated": "2026-11-19T03:38:35+00:00",
     "players": 63,
     "sort": "points",
     "weights": {
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 73,
-        "a": 163227,
-        "b": 8361,
-        "c": 28776,
-        "e": 366
+        "games": 74,
+        "a": 163714,
+        "b": 8369,
+        "c": 28851,
+        "e": 367
     },
     "top": [
         {
@@ -517,6 +517,19 @@
         },
         {
             "rank": 39,
+            "id": 73,
+            "name": "core-potte",
+            "points": 1453,
+            "w": 2,
+            "l": 0,
+            "d": 0,
+            "a": 1361,
+            "b": 8,
+            "c": 221,
+            "e": 2
+        },
+        {
+            "rank": 40,
             "id": 23,
             "name": "Chomik465",
             "points": 1373,
@@ -529,7 +542,7 @@
             "e": 3
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 40,
             "name": "Slim Sweaty",
             "points": 1280,
@@ -542,7 +555,7 @@
             "e": 4
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 49,
             "name": "Kyutatsuki",
             "points": 1196,
@@ -555,7 +568,7 @@
             "e": 4
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 46,
             "name": "Elais_Ainsworth",
             "points": 1166,
@@ -568,7 +581,7 @@
             "e": 3
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 12,
             "name": "_lof_",
             "points": 1157,
@@ -581,7 +594,7 @@
             "e": 3
         },
         {
-            "rank": 44,
+            "rank": 45,
             "id": 48,
             "name": "モクターン",
             "points": 1155,
@@ -594,7 +607,7 @@
             "e": 1
         },
         {
-            "rank": 45,
+            "rank": 46,
             "id": 57,
             "name": "Amai Akai",
             "points": 1122,
@@ -607,7 +620,7 @@
             "e": 2
         },
         {
-            "rank": 46,
+            "rank": 47,
             "id": 70,
             "name": "かぬのkarin",
             "points": 1038,
@@ -620,7 +633,7 @@
             "e": 1
         },
         {
-            "rank": 47,
+            "rank": 48,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -633,7 +646,7 @@
             "e": 3
         },
         {
-            "rank": 48,
+            "rank": 49,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -646,7 +659,7 @@
             "e": 1
         },
         {
-            "rank": 49,
+            "rank": 50,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -659,7 +672,7 @@
             "e": 3
         },
         {
-            "rank": 50,
+            "rank": 51,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 914,
@@ -670,19 +683,6 @@
             "b": 5,
             "c": 133,
             "e": 4
-        },
-        {
-            "rank": 51,
-            "id": 73,
-            "name": "core-potte",
-            "points": 904,
-            "w": 1,
-            "l": 0,
-            "d": 0,
-            "a": 874,
-            "b": 0,
-            "c": 146,
-            "e": 1
         },
         {
             "rank": 52,
