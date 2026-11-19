@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T00:37:38+00:00",
-    "players": 29,
+    "updated": "2026-11-19T00:39:42+00:00",
+    "players": 30,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 53,
-        "a": 104821,
-        "b": 5662,
-        "c": 18784,
-        "e": 242
+        "a": 105701,
+        "b": 5668,
+        "c": 18973,
+        "e": 243
     },
     "top": [
         {
@@ -335,6 +335,19 @@
         },
         {
             "rank": 25,
+            "id": 35,
+            "name": "Galaxy_9Volt",
+            "points": 909,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 880,
+            "b": 6,
+            "c": 189,
+            "e": 1
+        },
+        {
+            "rank": 26,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -347,7 +360,7 @@
             "e": 2
         },
         {
-            "rank": 26,
+            "rank": 27,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -360,7 +373,7 @@
             "e": 3
         },
         {
-            "rank": 27,
+            "rank": 28,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -373,7 +386,7 @@
             "e": 1
         },
         {
-            "rank": 28,
+            "rank": 29,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -386,7 +399,7 @@
             "e": 1
         },
         {
-            "rank": 29,
+            "rank": 30,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
