@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T02:04:21+00:00",
-    "players": 51,
+    "updated": "2026-11-19T02:06:58+00:00",
+    "players": 52,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 65,
-        "a": 131946,
-        "b": 6585,
-        "c": 23681,
-        "e": 306
+        "a": 132398,
+        "b": 6587,
+        "c": 23736,
+        "e": 308
     },
     "top": [
         {
@@ -595,6 +595,19 @@
         },
         {
             "rank": 45,
+            "id": 59,
+            "name": "BEAST OF BANYUE",
+            "points": 431,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 418,
+            "b": 2,
+            "c": 47,
+            "e": 1
+        },
+        {
+            "rank": 46,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -607,7 +620,7 @@
             "e": 1
         },
         {
-            "rank": 46,
+            "rank": 47,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -620,7 +633,7 @@
             "e": 1
         },
         {
-            "rank": 47,
+            "rank": 48,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -633,7 +646,20 @@
             "e": 1
         },
         {
-            "rank": 48,
+            "rank": 49,
+            "id": 60,
+            "name": "༒｟KINGWAFFLE｠༒",
+            "points": 139,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 129,
+            "b": 0,
+            "c": 27,
+            "e": 2
+        },
+        {
+            "rank": 50,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -646,7 +672,7 @@
             "e": 1
         },
         {
-            "rank": 49,
+            "rank": 51,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -659,20 +685,7 @@
             "e": 1
         },
         {
-            "rank": 50,
-            "id": 60,
-            "name": "༒｟KINGWAFFLE｠༒",
-            "points": 100,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 95,
-            "b": 0,
-            "c": 19,
-            "e": 1
-        },
-        {
-            "rank": 51,
+            "rank": 52,
             "id": 56,
             "name": "Amillieo",
             "points": 53,

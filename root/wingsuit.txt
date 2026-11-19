@@ -1,4 +1,4 @@
-T3	wingsuit	51	points	25	0	0	1	4	10	0	5
+T3	wingsuit	52	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
@@ -43,13 +43,14 @@ P	41	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
 P	42	50	0	0	0	594	8	91	2	636	Rusty Beans
 P	43	14	0	0	0	528	20	56	3	623	[1] Local Player
 P	44	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	45	54	0	0	0	314	11	44	1	363	darkness66688
-P	46	36	0	0	0	159	16	20	1	228	TikaBundles
-P	47	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	48	45	0	0	0	129	1	23	1	138	The Oxorak
-P	49	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	50	60	0	0	0	95	0	19	1	100	༒｟KINGWAFFLE｠༒
-P	51	56	0	0	0	44	1	7	1	53	Amillieo
+P	45	59	0	0	0	418	2	47	1	431	BEAST OF BANYUE
+P	46	54	0	0	0	314	11	44	1	363	darkness66688
+P	47	36	0	0	0	159	16	20	1	228	TikaBundles
+P	48	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	49	60	0	0	0	129	0	27	2	139	༒｟KINGWAFFLE｠༒
+P	50	45	0	0	0	129	1	23	1	138	The Oxorak
+P	51	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	52	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -70,4 +71,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	65	131946	6585	23681	306
+Z	65	132398	6587	23736	308
