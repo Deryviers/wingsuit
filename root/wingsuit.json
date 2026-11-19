@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T10:38:16+00:00",
-    "players": 94,
+    "updated": "2026-11-19T10:40:44+00:00",
+    "players": 95,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 90,
-        "a": 221624,
-        "b": 11699,
-        "c": 38418,
-        "e": 481
+        "a": 222178,
+        "b": 11707,
+        "c": 38496,
+        "e": 482
     },
     "top": [
         {
@@ -1076,6 +1076,19 @@
         },
         {
             "rank": 82,
+            "id": 113,
+            "name": "Honda-ken",
+            "points": 591,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 554,
+            "b": 8,
+            "c": 78,
+            "e": 1
+        },
+        {
+            "rank": 83,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -1088,7 +1101,7 @@
             "e": 1
         },
         {
-            "rank": 83,
+            "rank": 84,
             "id": 111,
             "name": "BigSmokinJoe",
             "points": 437,
@@ -1101,7 +1114,7 @@
             "e": 1
         },
         {
-            "rank": 84,
+            "rank": 85,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -1114,7 +1127,7 @@
             "e": 1
         },
         {
-            "rank": 85,
+            "rank": 86,
             "id": 108,
             "name": "いずみ（izumi）",
             "points": 366,
@@ -1127,7 +1140,7 @@
             "e": 1
         },
         {
-            "rank": 86,
+            "rank": 87,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -1140,7 +1153,7 @@
             "e": 1
         },
         {
-            "rank": 87,
+            "rank": 88,
             "id": 100,
             "name": "Mikarza",
             "points": 347,
@@ -1153,7 +1166,7 @@
             "e": 1
         },
         {
-            "rank": 88,
+            "rank": 89,
             "id": 74,
             "name": "크리본_Cribon",
             "points": 329,
@@ -1166,7 +1179,7 @@
             "e": 1
         },
         {
-            "rank": 89,
+            "rank": 90,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -1179,7 +1192,7 @@
             "e": 1
         },
         {
-            "rank": 90,
+            "rank": 91,
             "id": 85,
             "name": "けだまおばけ",
             "points": 211,
@@ -1192,7 +1205,7 @@
             "e": 1
         },
         {
-            "rank": 91,
+            "rank": 92,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -1205,7 +1218,7 @@
             "e": 1
         },
         {
-            "rank": 92,
+            "rank": 93,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -1218,7 +1231,7 @@
             "e": 1
         },
         {
-            "rank": 93,
+            "rank": 94,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -1231,7 +1244,7 @@
             "e": 1
         },
         {
-            "rank": 94,
+            "rank": 95,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
