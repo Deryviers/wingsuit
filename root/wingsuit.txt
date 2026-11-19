@@ -1,4 +1,4 @@
-T3	wingsuit	34	points	25	0	0	1	4	10	0	5
+T3	wingsuit	35	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
@@ -25,14 +25,15 @@ P	23	23	0	0	0	1338	5	306	3	1373	Chomik465
 P	24	12	1	0	0	1017	25	188	3	1157	_lof_
 P	25	28	1	0	0	808	38	220	3	1000	Lesik_fox
 P	26	25	0	0	0	873	8	140	3	920	Aureal VR
-P	27	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	28	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	29	38	1	0	0	525	5	112	2	580	Pix XD
-P	30	39	0	0	0	482	14	135	2	548	Gamestah
-P	31	40	0	0	0	472	14	68	2	538	Slim Sweaty
-P	32	36	0	0	0	159	16	20	1	228	TikaBundles
-P	33	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	34	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	27	40	0	0	0	813	21	208	3	912	Slim Sweaty
+P	28	39	0	0	0	807	22	225	3	910	Gamestah
+P	29	42	0	0	0	642	48	85	1	839	SycoDad1972
+P	30	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	31	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	32	38	1	0	0	525	5	112	2	580	Pix XD
+P	33	36	0	0	0	159	16	20	1	228	TikaBundles
+P	34	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	35	3	0	0	0	98	2	18	1	111	text․r d1ce
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -53,4 +54,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	54	109667	5766	19737	254
+Z	54	110975	5829	20052	257
