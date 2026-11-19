@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T04:48:59+00:00",
+    "updated": "2026-11-19T04:51:00+00:00",
     "players": 70,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 76,
-        "a": 172964,
-        "b": 8692,
-        "c": 30527,
-        "e": 385
+        "a": 173556,
+        "b": 8698,
+        "c": 30619,
+        "e": 387
     },
     "top": [
         {
@@ -660,6 +660,19 @@
         },
         {
             "rank": 50,
+            "id": 80,
+            "name": "_stritrim",
+            "points": 1053,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 990,
+            "b": 12,
+            "c": 153,
+            "e": 3
+        },
+        {
+            "rank": 51,
             "id": 70,
             "name": "かぬのkarin",
             "points": 1038,
@@ -672,7 +685,7 @@
             "e": 1
         },
         {
-            "rank": 51,
+            "rank": 52,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -685,7 +698,7 @@
             "e": 3
         },
         {
-            "rank": 52,
+            "rank": 53,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -698,7 +711,7 @@
             "e": 1
         },
         {
-            "rank": 53,
+            "rank": 54,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -711,7 +724,7 @@
             "e": 3
         },
         {
-            "rank": 54,
+            "rank": 55,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -724,7 +737,7 @@
             "e": 2
         },
         {
-            "rank": 55,
+            "rank": 56,
             "id": 79,
             "name": "LilZombiePuppy",
             "points": 764,
@@ -737,7 +750,7 @@
             "e": 2
         },
         {
-            "rank": 56,
+            "rank": 57,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -750,7 +763,7 @@
             "e": 1
         },
         {
-            "rank": 57,
+            "rank": 58,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -763,7 +776,7 @@
             "e": 2
         },
         {
-            "rank": 58,
+            "rank": 59,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -776,7 +789,7 @@
             "e": 3
         },
         {
-            "rank": 59,
+            "rank": 60,
             "id": 78,
             "name": "Camo225",
             "points": 533,
@@ -789,7 +802,7 @@
             "e": 1
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -799,19 +812,6 @@
             "a": 468,
             "b": 4,
             "c": 54,
-            "e": 1
-        },
-        {
-            "rank": 61,
-            "id": 80,
-            "name": "_stritrim",
-            "points": 427,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 398,
-            "b": 6,
-            "c": 61,
             "e": 1
         },
         {
