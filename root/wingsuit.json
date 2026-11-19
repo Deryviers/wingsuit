@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T01:35:16+00:00",
-    "players": 45,
+    "updated": "2026-11-19T01:37:19+00:00",
+    "players": 46,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 60,
-        "a": 127629,
-        "b": 6496,
-        "c": 22979,
-        "e": 295
+        "a": 127922,
+        "b": 6499,
+        "c": 23029,
+        "e": 296
     },
     "top": [
         {
@@ -556,6 +556,19 @@
         },
         {
             "rank": 42,
+            "id": 53,
+            "name": "Shawty-Doowop7",
+            "points": 310,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 293,
+            "b": 3,
+            "c": 50,
+            "e": 1
+        },
+        {
+            "rank": 43,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -568,7 +581,7 @@
             "e": 1
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -581,7 +594,7 @@
             "e": 1
         },
         {
-            "rank": 44,
+            "rank": 45,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -594,7 +607,7 @@
             "e": 1
         },
         {
-            "rank": 45,
+            "rank": 46,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
