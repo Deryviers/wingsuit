@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T04:16:06+00:00",
+    "updated": "2026-11-19T04:19:28+00:00",
     "players": 66,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 74,
-        "a": 166851,
-        "b": 8583,
-        "c": 29371,
-        "e": 371
+        "a": 167883,
+        "b": 8602,
+        "c": 29536,
+        "e": 372
     },
     "top": [
         {
@@ -257,6 +257,19 @@
         },
         {
             "rank": 19,
+            "id": 76,
+            "name": "Sameiyn",
+            "points": 2627,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 2233,
+            "b": 96,
+            "c": 352,
+            "e": 2
+        },
+        {
+            "rank": 20,
             "id": 33,
             "name": "JAM-SHOOT",
             "points": 2609,
@@ -269,7 +282,7 @@
             "e": 3
         },
         {
-            "rank": 20,
+            "rank": 21,
             "id": 20,
             "name": "ХPEH",
             "points": 2589,
@@ -282,7 +295,7 @@
             "e": 12
         },
         {
-            "rank": 21,
+            "rank": 22,
             "id": 13,
             "name": "No iD×",
             "points": 2469,
@@ -295,7 +308,7 @@
             "e": 3
         },
         {
-            "rank": 22,
+            "rank": 23,
             "id": 9,
             "name": "Nootau",
             "points": 2455,
@@ -308,7 +321,7 @@
             "e": 3
         },
         {
-            "rank": 23,
+            "rank": 24,
             "id": 38,
             "name": "Pix XD",
             "points": 2310,
@@ -321,7 +334,7 @@
             "e": 5
         },
         {
-            "rank": 24,
+            "rank": 25,
             "id": 26,
             "name": "NEKROLOQ",
             "points": 2292,
@@ -334,7 +347,7 @@
             "e": 4
         },
         {
-            "rank": 25,
+            "rank": 26,
             "id": 67,
             "name": "Jaye Invicta",
             "points": 2250,
@@ -347,7 +360,7 @@
             "e": 2
         },
         {
-            "rank": 26,
+            "rank": 27,
             "id": 75,
             "name": "Chen_CiG",
             "points": 2170,
@@ -360,7 +373,7 @@
             "e": 2
         },
         {
-            "rank": 27,
+            "rank": 28,
             "id": 29,
             "name": "-Bim",
             "points": 1994,
@@ -373,7 +386,7 @@
             "e": 3
         },
         {
-            "rank": 28,
+            "rank": 29,
             "id": 27,
             "name": "VLΑD",
             "points": 1977,
@@ -386,7 +399,7 @@
             "e": 4
         },
         {
-            "rank": 29,
+            "rank": 30,
             "id": 17,
             "name": "Ana_AP",
             "points": 1952,
@@ -399,7 +412,7 @@
             "e": 6
         },
         {
-            "rank": 30,
+            "rank": 31,
             "id": 62,
             "name": "Redheartxd23",
             "points": 1946,
@@ -412,7 +425,7 @@
             "e": 4
         },
         {
-            "rank": 31,
+            "rank": 32,
             "id": 35,
             "name": "Galaxy_9Volt",
             "points": 1874,
@@ -425,7 +438,7 @@
             "e": 3
         },
         {
-            "rank": 32,
+            "rank": 33,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -438,7 +451,7 @@
             "e": 3
         },
         {
-            "rank": 33,
+            "rank": 34,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -451,7 +464,7 @@
             "e": 3
         },
         {
-            "rank": 34,
+            "rank": 35,
             "id": 69,
             "name": "アリーズ",
             "points": 1687,
@@ -464,7 +477,7 @@
             "e": 2
         },
         {
-            "rank": 35,
+            "rank": 36,
             "id": 65,
             "name": "TheEolos 4ea8",
             "points": 1637,
@@ -477,7 +490,7 @@
             "e": 3
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 68,
             "name": "ᴇᴍᴍɪ",
             "points": 1605,
@@ -490,7 +503,7 @@
             "e": 2
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 71,
             "name": "oliveyous",
             "points": 1572,
@@ -503,7 +516,7 @@
             "e": 3
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 22,
             "name": "Flintツ",
             "points": 1528,
@@ -514,19 +527,6 @@
             "b": 113,
             "c": 145,
             "e": 4
-        },
-        {
-            "rank": 39,
-            "id": 76,
-            "name": "Sameiyn",
-            "points": 1514,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 1201,
-            "b": 77,
-            "c": 187,
-            "e": 1
         },
         {
             "rank": 40,
