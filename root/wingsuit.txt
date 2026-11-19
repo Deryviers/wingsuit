@@ -33,17 +33,17 @@ P	31	49	0	0	0	988	47	122	4	1196	Kyutatsuki
 P	32	46	0	0	0	1131	5	245	3	1166	Elais_Ainsworth
 P	33	12	1	0	0	1017	25	188	3	1157	_lof_
 P	34	48	0	0	0	1070	20	154	1	1155	モクターン
-P	35	28	1	0	0	808	38	220	3	1000	Lesik_fox
-P	36	55	1	0	0	863	9	117	1	929	VeRiX_
-P	37	25	0	0	0	873	8	140	3	920	Aureal VR
-P	38	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
-P	39	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	40	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	41	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	42	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	43	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	44	54	0	0	0	314	11	44	1	363	darkness66688
-P	45	57	0	0	0	305	4	36	1	326	Amai Akai
+P	35	57	0	0	0	976	34	151	2	1122	Amai Akai
+P	36	28	1	0	0	808	38	220	3	1000	Lesik_fox
+P	37	55	1	0	0	863	9	117	1	929	VeRiX_
+P	38	25	0	0	0	873	8	140	3	920	Aureal VR
+P	39	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
+P	40	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	41	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	42	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	43	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	44	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	45	54	0	0	0	314	11	44	1	363	darkness66688
 P	46	36	0	0	0	159	16	20	1	228	TikaBundles
 P	47	21	0	0	0	105	10	14	1	150	_Elizabet_
 P	48	45	0	0	0	129	1	23	1	138	The Oxorak
@@ -69,4 +69,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	65	131180	6555	23547	304
+Z	65	131851	6585	23662	305

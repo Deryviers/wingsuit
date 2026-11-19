@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T01:45:50+00:00",
+    "updated": "2026-11-19T01:48:50+00:00",
     "players": 50,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 65,
-        "a": 131180,
-        "b": 6555,
-        "c": 23547,
-        "e": 304
+        "a": 131851,
+        "b": 6585,
+        "c": 23662,
+        "e": 305
     },
     "top": [
         {
@@ -465,6 +465,19 @@
         },
         {
             "rank": 35,
+            "id": 57,
+            "name": "Amai Akai",
+            "points": 1122,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 976,
+            "b": 34,
+            "c": 151,
+            "e": 2
+        },
+        {
+            "rank": 36,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -477,7 +490,7 @@
             "e": 3
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -490,7 +503,7 @@
             "e": 1
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -503,7 +516,7 @@
             "e": 3
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 914,
@@ -516,7 +529,7 @@
             "e": 4
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -529,7 +542,7 @@
             "e": 2
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -542,7 +555,7 @@
             "e": 1
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -555,7 +568,7 @@
             "e": 2
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -568,7 +581,7 @@
             "e": 3
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -581,7 +594,7 @@
             "e": 1
         },
         {
-            "rank": 44,
+            "rank": 45,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -591,19 +604,6 @@
             "a": 314,
             "b": 11,
             "c": 44,
-            "e": 1
-        },
-        {
-            "rank": 45,
-            "id": 57,
-            "name": "Amai Akai",
-            "points": 326,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 305,
-            "b": 4,
-            "c": 36,
             "e": 1
         },
         {
