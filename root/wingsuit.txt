@@ -1,12 +1,12 @@
-T3	wingsuit	1941	points	25	0	0	1	4	10	0	5
+T3	wingsuit	1954	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	34298	2501	5900	95	45227	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	464	6	0	0	8320	1100	1098	13	12935	zolo1512
 P	4	61	0	0	0	8883	884	1476	14	12489	gloodgy
 P	5	490	1	0	0	4790	1653	657	8	11467	_Ori__
 P	6	972	0	0	0	10560	169	1837	7	11271	Kagamine_Lily
-P	7	6	10	0	0	9158	150	1722	21	10113	persikzdes
-P	8	1659	5	0	0	9681	60	2053	8	10086	Saya․∗
+P	7	1659	6	0	0	10527	60	2197	9	10962	Saya․∗
+P	8	6	10	0	0	9158	150	1722	21	10113	persikzdes
 P	9	804	2	0	0	7425	595	1055	12	9915	FB5Slits
 P	10	1256	4	0	0	6197	635	857	11	8892	BanJiu
 P	11	617	6	0	0	5109	837	737	13	8672	月村莉奈
@@ -107,7 +107,7 @@ R	pk	2	4	1781	RayProtogn
 R	pk	3	490	1653	_Ori__
 R	ik	1	1	34298	Deryvier
 R	ik	2	972	10560	Kagamine_Lily
-R	ik	3	4	9797	RayProtogn
+R	ik	3	1659	10527	Saya․∗
 R	gm	1	1	18	Deryvier
 R	gm	2	6	10	persikzdes
 R	gm	3	8	8	RT25
@@ -115,8 +115,8 @@ R	wr	1	1	1000	Deryvier
 R	wr	2	6	1000	persikzdes
 R	c3	1	1	5900	Deryvier
 R	c3	2	724	2582	humpsy
-R	c3	3	4	2189	RayProtogn
+R	c3	3	1659	2197	Saya․∗
 R	c4	1	1	95	Deryvier
 R	c4	2	1842	27	toki_Yukawa
 R	c4	3	6	21	persikzdes
-Z	628	2520574	98058	434119	4970
+Z	640	2538278	98533	437191	5007
