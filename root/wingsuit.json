@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T08:37:40+00:00",
+    "updated": "2026-11-19T08:40:22+00:00",
     "players": 83,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 87,
-        "a": 209216,
-        "b": 11170,
-        "c": 36550,
-        "e": 456
+        "a": 209793,
+        "b": 11195,
+        "c": 36665,
+        "e": 457
     },
     "top": [
         {
@@ -504,6 +504,19 @@
         },
         {
             "rank": 38,
+            "id": 99,
+            "name": "shuu（Lv․1）",
+            "points": 1977,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 1730,
+            "b": 58,
+            "c": 340,
+            "e": 3
+        },
+        {
+            "rank": 39,
             "id": 17,
             "name": "Ana_AP",
             "points": 1952,
@@ -516,7 +529,7 @@
             "e": 6
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 62,
             "name": "Redheartxd23",
             "points": 1946,
@@ -529,7 +542,7 @@
             "e": 4
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 35,
             "name": "Galaxy_9Volt",
             "points": 1874,
@@ -542,7 +555,7 @@
             "e": 3
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 1818,
@@ -555,7 +568,7 @@
             "e": 7
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -568,7 +581,7 @@
             "e": 3
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -581,7 +594,7 @@
             "e": 3
         },
         {
-            "rank": 44,
+            "rank": 45,
             "id": 69,
             "name": "アリーズ",
             "points": 1687,
@@ -594,7 +607,7 @@
             "e": 2
         },
         {
-            "rank": 45,
+            "rank": 46,
             "id": 79,
             "name": "LilZombiePuppy",
             "points": 1662,
@@ -607,7 +620,7 @@
             "e": 7
         },
         {
-            "rank": 46,
+            "rank": 47,
             "id": 65,
             "name": "TheEolos 4ea8",
             "points": 1637,
@@ -620,7 +633,7 @@
             "e": 3
         },
         {
-            "rank": 47,
+            "rank": 48,
             "id": 68,
             "name": "ᴇᴍᴍɪ",
             "points": 1605,
@@ -633,7 +646,7 @@
             "e": 2
         },
         {
-            "rank": 48,
+            "rank": 49,
             "id": 94,
             "name": "Johnny_Bravo34",
             "points": 1585,
@@ -646,7 +659,7 @@
             "e": 2
         },
         {
-            "rank": 49,
+            "rank": 50,
             "id": 71,
             "name": "oliveyous",
             "points": 1572,
@@ -659,7 +672,7 @@
             "e": 3
         },
         {
-            "rank": 50,
+            "rank": 51,
             "id": 22,
             "name": "Flintツ",
             "points": 1528,
@@ -672,7 +685,7 @@
             "e": 4
         },
         {
-            "rank": 51,
+            "rank": 52,
             "id": 72,
             "name": "MysterSyn",
             "points": 1469,
@@ -685,7 +698,7 @@
             "e": 5
         },
         {
-            "rank": 52,
+            "rank": 53,
             "id": 73,
             "name": "core-potte",
             "points": 1453,
@@ -698,7 +711,7 @@
             "e": 2
         },
         {
-            "rank": 53,
+            "rank": 54,
             "id": 23,
             "name": "Chomik465",
             "points": 1373,
@@ -709,19 +722,6 @@
             "b": 5,
             "c": 306,
             "e": 3
-        },
-        {
-            "rank": 54,
-            "id": 99,
-            "name": "shuu（Lv․1）",
-            "points": 1295,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 1153,
-            "b": 33,
-            "c": 225,
-            "e": 2
         },
         {
             "rank": 55,
