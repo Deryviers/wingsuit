@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T22:14:23+00:00",
-    "players": 3709,
+    "updated": "2026-11-19T22:16:23+00:00",
+    "players": 3720,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 1209,
-        "a": 4896386,
-        "b": 190327,
-        "c": 836350,
-        "e": 10090
+        "games": 1213,
+        "a": 4911269,
+        "b": 190880,
+        "c": 838587,
+        "e": 10121
     },
     "top": [
         {
@@ -36,6 +36,19 @@
         },
         {
             "rank": 2,
+            "id": 2844,
+            "name": "Deryvier",
+            "points": 13520,
+            "w": 6,
+            "l": 0,
+            "d": 0,
+            "a": 10598,
+            "b": 643,
+            "c": 1553,
+            "e": 40
+        },
+        {
+            "rank": 3,
             "id": 3753,
             "name": "FireFraer 1f9b",
             "points": 13237,
@@ -48,7 +61,7 @@
             "e": 29
         },
         {
-            "rank": 3,
+            "rank": 4,
             "id": 3145,
             "name": "楓味凌MapleCream",
             "points": 13121,
@@ -61,7 +74,7 @@
             "e": 12
         },
         {
-            "rank": 4,
+            "rank": 5,
             "id": 3748,
             "name": "hunterxcapy 8df2",
             "points": 13022,
@@ -74,7 +87,7 @@
             "e": 39
         },
         {
-            "rank": 5,
+            "rank": 6,
             "id": 464,
             "name": "zolo1512",
             "points": 12935,
@@ -87,7 +100,7 @@
             "e": 13
         },
         {
-            "rank": 6,
+            "rank": 7,
             "id": 61,
             "name": "gloodgy",
             "points": 12489,
@@ -100,7 +113,7 @@
             "e": 14
         },
         {
-            "rank": 7,
+            "rank": 8,
             "id": 2402,
             "name": "桀JieKe_Torasu",
             "points": 12363,
@@ -111,19 +124,6 @@
             "b": 392,
             "c": 2096,
             "e": 15
-        },
-        {
-            "rank": 8,
-            "id": 2844,
-            "name": "Deryvier",
-            "points": 12331,
-            "w": 6,
-            "l": 0,
-            "d": 0,
-            "a": 9542,
-            "b": 611,
-            "c": 1403,
-            "e": 39
         },
         {
             "rank": 9,
@@ -712,6 +712,19 @@
         },
         {
             "rank": 54,
+            "id": 4153,
+            "name": "~Redager_comet~",
+            "points": 6366,
+            "w": 3,
+            "l": 0,
+            "d": 0,
+            "a": 5627,
+            "b": 141,
+            "c": 1282,
+            "e": 20
+        },
+        {
+            "rank": 55,
             "id": 3699,
             "name": "RXP07 9e4e",
             "points": 6364,
@@ -724,7 +737,7 @@
             "e": 9
         },
         {
-            "rank": 55,
+            "rank": 56,
             "id": 3221,
             "name": "KateBarks",
             "points": 6329,
@@ -737,7 +750,7 @@
             "e": 10
         },
         {
-            "rank": 56,
+            "rank": 57,
             "id": 1358,
             "name": "ECHOOOOOOOOO 5e08",
             "points": 6305,
@@ -750,7 +763,7 @@
             "e": 11
         },
         {
-            "rank": 57,
+            "rank": 58,
             "id": 3286,
             "name": "Mythoo",
             "points": 6296,
@@ -763,7 +776,7 @@
             "e": 5
         },
         {
-            "rank": 58,
+            "rank": 59,
             "id": 37,
             "name": "Meatgurt",
             "points": 6295,
@@ -776,7 +789,7 @@
             "e": 10
         },
         {
-            "rank": 59,
+            "rank": 60,
             "id": 1379,
             "name": "takachiho",
             "points": 6291,
@@ -789,7 +802,7 @@
             "e": 8
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 3235,
             "name": "Mr Moth ཐིཋྀ",
             "points": 6278,
@@ -802,7 +815,7 @@
             "e": 6
         },
         {
-            "rank": 61,
+            "rank": 62,
             "id": 2317,
             "name": "TheyCallMeSpoon",
             "points": 6242,
@@ -815,7 +828,7 @@
             "e": 6
         },
         {
-            "rank": 62,
+            "rank": 63,
             "id": 2746,
             "name": "kama_boko__",
             "points": 6241,
@@ -828,7 +841,7 @@
             "e": 9
         },
         {
-            "rank": 63,
+            "rank": 64,
             "id": 4156,
             "name": "Corndog6741",
             "points": 6224,
@@ -841,7 +854,7 @@
             "e": 13
         },
         {
-            "rank": 64,
+            "rank": 65,
             "id": 728,
             "name": "黑羊蛋糕HeiYangCake",
             "points": 6186,
@@ -852,19 +865,6 @@
             "b": 827,
             "c": 493,
             "e": 9
-        },
-        {
-            "rank": 65,
-            "id": 4153,
-            "name": "~Redager_comet~",
-            "points": 6170,
-            "w": 3,
-            "l": 0,
-            "d": 0,
-            "a": 5452,
-            "b": 137,
-            "c": 1227,
-            "e": 19
         },
         {
             "rank": 66,
