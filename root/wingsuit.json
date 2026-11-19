@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T06:30:27+00:00",
-    "players": 79,
+    "updated": "2026-11-19T06:33:11+00:00",
+    "players": 80,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 87,
-        "a": 204948,
-        "b": 10933,
-        "c": 35855,
-        "e": 449
+        "a": 205827,
+        "b": 10958,
+        "c": 35974,
+        "e": 450
     },
     "top": [
         {
@@ -829,6 +829,19 @@
         },
         {
             "rank": 63,
+            "id": 95,
+            "name": "༒ Voidsiah༒",
+            "points": 984,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 879,
+            "b": 25,
+            "c": 119,
+            "e": 1
+        },
+        {
+            "rank": 64,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -841,7 +854,7 @@
             "e": 1
         },
         {
-            "rank": 64,
+            "rank": 65,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -854,7 +867,7 @@
             "e": 3
         },
         {
-            "rank": 65,
+            "rank": 66,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -867,7 +880,7 @@
             "e": 2
         },
         {
-            "rank": 66,
+            "rank": 67,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -880,7 +893,7 @@
             "e": 1
         },
         {
-            "rank": 67,
+            "rank": 68,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -893,7 +906,7 @@
             "e": 2
         },
         {
-            "rank": 68,
+            "rank": 69,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -906,7 +919,7 @@
             "e": 3
         },
         {
-            "rank": 69,
+            "rank": 70,
             "id": 93,
             "name": "BALLZ_831 7b79",
             "points": 613,
@@ -919,7 +932,7 @@
             "e": 1
         },
         {
-            "rank": 70,
+            "rank": 71,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -932,7 +945,7 @@
             "e": 1
         },
         {
-            "rank": 71,
+            "rank": 72,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -945,7 +958,7 @@
             "e": 1
         },
         {
-            "rank": 72,
+            "rank": 73,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -958,7 +971,7 @@
             "e": 1
         },
         {
-            "rank": 73,
+            "rank": 74,
             "id": 74,
             "name": "크리본_Cribon",
             "points": 329,
@@ -971,7 +984,7 @@
             "e": 1
         },
         {
-            "rank": 74,
+            "rank": 75,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -984,7 +997,7 @@
             "e": 1
         },
         {
-            "rank": 75,
+            "rank": 76,
             "id": 85,
             "name": "けだまおばけ",
             "points": 211,
@@ -997,7 +1010,7 @@
             "e": 1
         },
         {
-            "rank": 76,
+            "rank": 77,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -1010,7 +1023,7 @@
             "e": 1
         },
         {
-            "rank": 77,
+            "rank": 78,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -1023,7 +1036,7 @@
             "e": 1
         },
         {
-            "rank": 78,
+            "rank": 79,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -1036,7 +1049,7 @@
             "e": 1
         },
         {
-            "rank": 79,
+            "rank": 80,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
