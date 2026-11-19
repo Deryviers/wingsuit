@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T04:51:00+00:00",
+    "updated": "2026-11-19T04:53:33+00:00",
     "players": 70,
     "sort": "points",
     "weights": {
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 76,
-        "a": 173556,
-        "b": 8698,
-        "c": 30619,
-        "e": 387
+        "games": 77,
+        "a": 174552,
+        "b": 8708,
+        "c": 30865,
+        "e": 389
     },
     "top": [
         {
@@ -660,6 +660,19 @@
         },
         {
             "rank": 50,
+            "id": 79,
+            "name": "LilZombiePuppy",
+            "points": 1121,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 1034,
+            "b": 18,
+            "c": 261,
+            "e": 3
+        },
+        {
+            "rank": 51,
             "id": 80,
             "name": "_stritrim",
             "points": 1053,
@@ -672,7 +685,20 @@
             "e": 3
         },
         {
-            "rank": 51,
+            "rank": 52,
+            "id": 77,
+            "name": "Slater-_-",
+            "points": 1048,
+            "w": 1,
+            "l": 0,
+            "d": 0,
+            "a": 929,
+            "b": 21,
+            "c": 265,
+            "e": 2
+        },
+        {
+            "rank": 53,
             "id": 70,
             "name": "かぬのkarin",
             "points": 1038,
@@ -685,7 +711,7 @@
             "e": 1
         },
         {
-            "rank": 52,
+            "rank": 54,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -698,7 +724,7 @@
             "e": 3
         },
         {
-            "rank": 53,
+            "rank": 55,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -711,7 +737,7 @@
             "e": 1
         },
         {
-            "rank": 54,
+            "rank": 56,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -724,7 +750,7 @@
             "e": 3
         },
         {
-            "rank": 55,
+            "rank": 57,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -737,20 +763,7 @@
             "e": 2
         },
         {
-            "rank": 56,
-            "id": 79,
-            "name": "LilZombiePuppy",
-            "points": 764,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 702,
-            "b": 13,
-            "c": 199,
-            "e": 2
-        },
-        {
-            "rank": 57,
+            "rank": 58,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -763,7 +776,7 @@
             "e": 1
         },
         {
-            "rank": 58,
+            "rank": 59,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -776,7 +789,7 @@
             "e": 2
         },
         {
-            "rank": 59,
+            "rank": 60,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -789,7 +802,7 @@
             "e": 3
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 78,
             "name": "Camo225",
             "points": 533,
@@ -802,7 +815,7 @@
             "e": 1
         },
         {
-            "rank": 61,
+            "rank": 62,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -815,7 +828,7 @@
             "e": 1
         },
         {
-            "rank": 62,
+            "rank": 63,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -828,7 +841,7 @@
             "e": 1
         },
         {
-            "rank": 63,
+            "rank": 64,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -838,19 +851,6 @@
             "a": 314,
             "b": 11,
             "c": 44,
-            "e": 1
-        },
-        {
-            "rank": 64,
-            "id": 77,
-            "name": "Slater-_-",
-            "points": 334,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 265,
-            "b": 16,
-            "c": 81,
             "e": 1
         },
         {
