@@ -81,20 +81,20 @@ P	79	50	0	0	0	594	8	91	2	636	Rusty Beans
 P	80	14	0	0	0	528	20	56	3	623	[1] Local Player
 P	81	93	0	0	0	604	1	105	1	613	BALLZ_831 7b79
 P	82	113	0	0	0	554	8	78	1	591	Honda-ken
-P	83	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	84	111	0	0	0	420	3	48	1	437	BigSmokinJoe
-P	85	64	0	0	0	408	1	53	1	417	- PomPom -
-P	86	108	0	0	0	329	8	65	1	366	いずみ（izumi）
-P	87	54	0	0	0	314	11	44	1	363	darkness66688
-P	88	100	0	0	0	278	16	43	1	347	Mikarza
-P	89	74	0	0	0	300	6	77	1	329	크리본_Cribon
-P	90	114	0	0	0	303	4	31	1	324	_차차_
-P	91	36	0	0	0	159	16	20	1	228	TikaBundles
-P	92	85	0	0	0	206	0	36	1	211	けだまおばけ
-P	93	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	94	45	0	0	0	129	1	23	1	138	The Oxorak
-P	95	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	96	115	0	0	0	55	6	8	1	84	nanaharu4523
+P	83	115	0	0	0	502	9	57	2	548	nanaharu4523
+P	84	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	85	111	0	0	0	420	3	48	1	437	BigSmokinJoe
+P	86	64	0	0	0	408	1	53	1	417	- PomPom -
+P	87	108	0	0	0	329	8	65	1	366	いずみ（izumi）
+P	88	54	0	0	0	314	11	44	1	363	darkness66688
+P	89	100	0	0	0	278	16	43	1	347	Mikarza
+P	90	74	0	0	0	300	6	77	1	329	크리본_Cribon
+P	91	114	0	0	0	303	4	31	1	324	_차차_
+P	92	36	0	0	0	159	16	20	1	228	TikaBundles
+P	93	85	0	0	0	206	0	36	1	211	けだまおばけ
+P	94	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	95	45	0	0	0	129	1	23	1	138	The Oxorak
+P	96	3	0	0	0	98	2	18	1	111	text․r d1ce
 P	97	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
@@ -116,4 +116,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	90	222536	11717	38535	484
+Z	90	222983	11720	38584	485
