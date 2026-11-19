@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T05:44:52+00:00",
+    "updated": "2026-11-19T05:47:56+00:00",
     "players": 75,
     "sort": "points",
     "weights": {
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 79,
-        "a": 187475,
-        "b": 9410,
-        "c": 33367,
-        "e": 414
+        "games": 80,
+        "a": 188224,
+        "b": 9415,
+        "c": 33476,
+        "e": 415
     },
     "top": [
         {
@@ -374,6 +374,19 @@
         },
         {
             "rank": 28,
+            "id": 88,
+            "name": "Mandy93312",
+            "points": 2401,
+            "w": 1,
+            "l": 0,
+            "d": 0,
+            "a": 2122,
+            "b": 61,
+            "c": 346,
+            "e": 2
+        },
+        {
+            "rank": 29,
             "id": 38,
             "name": "Pix XD",
             "points": 2310,
@@ -386,7 +399,7 @@
             "e": 5
         },
         {
-            "rank": 29,
+            "rank": 30,
             "id": 26,
             "name": "NEKROLOQ",
             "points": 2292,
@@ -399,7 +412,7 @@
             "e": 4
         },
         {
-            "rank": 30,
+            "rank": 31,
             "id": 67,
             "name": "Jaye Invicta",
             "points": 2250,
@@ -412,7 +425,7 @@
             "e": 2
         },
         {
-            "rank": 31,
+            "rank": 32,
             "id": 29,
             "name": "-Bim",
             "points": 1994,
@@ -425,7 +438,7 @@
             "e": 3
         },
         {
-            "rank": 32,
+            "rank": 33,
             "id": 27,
             "name": "VLΑD",
             "points": 1977,
@@ -438,7 +451,7 @@
             "e": 4
         },
         {
-            "rank": 33,
+            "rank": 34,
             "id": 17,
             "name": "Ana_AP",
             "points": 1952,
@@ -451,7 +464,7 @@
             "e": 6
         },
         {
-            "rank": 34,
+            "rank": 35,
             "id": 62,
             "name": "Redheartxd23",
             "points": 1946,
@@ -464,7 +477,7 @@
             "e": 4
         },
         {
-            "rank": 35,
+            "rank": 36,
             "id": 35,
             "name": "Galaxy_9Volt",
             "points": 1874,
@@ -477,7 +490,7 @@
             "e": 3
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 53,
             "name": "Shawty-Doowop7",
             "points": 1818,
@@ -490,7 +503,7 @@
             "e": 7
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -503,7 +516,7 @@
             "e": 3
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -516,7 +529,7 @@
             "e": 3
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 69,
             "name": "アリーズ",
             "points": 1687,
@@ -529,7 +542,7 @@
             "e": 2
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 79,
             "name": "LilZombiePuppy",
             "points": 1662,
@@ -542,7 +555,7 @@
             "e": 7
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 65,
             "name": "TheEolos 4ea8",
             "points": 1637,
@@ -555,7 +568,7 @@
             "e": 3
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 68,
             "name": "ᴇᴍᴍɪ",
             "points": 1605,
@@ -566,19 +579,6 @@
             "b": 66,
             "c": 292,
             "e": 2
-        },
-        {
-            "rank": 43,
-            "id": 88,
-            "name": "Mandy93312",
-            "points": 1602,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 1373,
-            "b": 56,
-            "c": 237,
-            "e": 1
         },
         {
             "rank": 44,
