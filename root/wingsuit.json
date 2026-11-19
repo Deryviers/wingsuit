@@ -1,7 +1,7 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T05:15:28+00:00",
+    "updated": "2026-11-19T05:18:24+00:00",
     "players": 71,
     "sort": "points",
     "weights": {
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 77,
-        "a": 177555,
-        "b": 8916,
-        "c": 31688,
-        "e": 397
+        "a": 178255,
+        "b": 8924,
+        "c": 31798,
+        "e": 398
     },
     "top": [
         {
@@ -608,6 +608,19 @@
         },
         {
             "rank": 46,
+            "id": 82,
+            "name": "mulch67",
+            "points": 1365,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 1275,
+            "b": 20,
+            "c": 180,
+            "e": 2
+        },
+        {
+            "rank": 47,
             "id": 40,
             "name": "Slim Sweaty",
             "points": 1280,
@@ -620,7 +633,7 @@
             "e": 4
         },
         {
-            "rank": 47,
+            "rank": 48,
             "id": 49,
             "name": "Kyutatsuki",
             "points": 1196,
@@ -633,7 +646,7 @@
             "e": 4
         },
         {
-            "rank": 48,
+            "rank": 49,
             "id": 46,
             "name": "Elais_Ainsworth",
             "points": 1166,
@@ -646,7 +659,7 @@
             "e": 3
         },
         {
-            "rank": 49,
+            "rank": 50,
             "id": 12,
             "name": "_lof_",
             "points": 1157,
@@ -659,7 +672,7 @@
             "e": 3
         },
         {
-            "rank": 50,
+            "rank": 51,
             "id": 48,
             "name": "モクターン",
             "points": 1155,
@@ -672,7 +685,7 @@
             "e": 1
         },
         {
-            "rank": 51,
+            "rank": 52,
             "id": 57,
             "name": "Amai Akai",
             "points": 1122,
@@ -685,7 +698,7 @@
             "e": 2
         },
         {
-            "rank": 52,
+            "rank": 53,
             "id": 77,
             "name": "Slater-_-",
             "points": 1098,
@@ -698,7 +711,7 @@
             "e": 4
         },
         {
-            "rank": 53,
+            "rank": 54,
             "id": 80,
             "name": "_stritrim",
             "points": 1053,
@@ -711,7 +724,7 @@
             "e": 3
         },
         {
-            "rank": 54,
+            "rank": 55,
             "id": 70,
             "name": "かぬのkarin",
             "points": 1038,
@@ -724,7 +737,7 @@
             "e": 1
         },
         {
-            "rank": 55,
+            "rank": 56,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -737,7 +750,7 @@
             "e": 3
         },
         {
-            "rank": 56,
+            "rank": 57,
             "id": 55,
             "name": "VeRiX_",
             "points": 929,
@@ -750,7 +763,7 @@
             "e": 1
         },
         {
-            "rank": 57,
+            "rank": 58,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -763,7 +776,7 @@
             "e": 3
         },
         {
-            "rank": 58,
+            "rank": 59,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -776,7 +789,7 @@
             "e": 2
         },
         {
-            "rank": 59,
+            "rank": 60,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -789,7 +802,7 @@
             "e": 1
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -800,19 +813,6 @@
             "b": 8,
             "c": 91,
             "e": 2
-        },
-        {
-            "rank": 61,
-            "id": 82,
-            "name": "mulch67",
-            "points": 628,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 575,
-            "b": 12,
-            "c": 70,
-            "e": 1
         },
         {
             "rank": 62,
