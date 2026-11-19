@@ -1,4 +1,4 @@
-T3	wingsuit	49	points	25	0	0	1	4	10	0	5
+T3	wingsuit	50	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
@@ -36,18 +36,19 @@ P	34	48	0	0	0	1070	20	154	1	1155	モクターン
 P	35	28	1	0	0	808	38	220	3	1000	Lesik_fox
 P	36	55	1	0	0	863	9	117	1	929	VeRiX_
 P	37	25	0	0	0	873	8	140	3	920	Aureal VR
-P	38	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	39	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	40	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	41	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	42	53	2	0	0	445	5	80	3	530	Shawty-Doowop7
+P	38	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
+P	39	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	40	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	41	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	42	14	0	0	0	528	20	56	3	623	[1] Local Player
 P	43	47	0	0	0	468	4	54	1	489	Hideo Go Home
 P	44	54	0	0	0	314	11	44	1	363	darkness66688
-P	45	36	0	0	0	159	16	20	1	228	TikaBundles
-P	46	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	47	45	0	0	0	129	1	23	1	138	The Oxorak
-P	48	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	49	56	0	0	0	44	1	7	1	53	Amillieo
+P	45	57	0	0	0	305	4	36	1	326	Amai Akai
+P	46	36	0	0	0	159	16	20	1	228	TikaBundles
+P	47	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	48	45	0	0	0	129	1	23	1	138	The Oxorak
+P	49	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	50	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -68,4 +69,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	64	130521	6551	23458	302
+Z	65	131180	6555	23547	304
