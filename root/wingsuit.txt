@@ -2,7 +2,7 @@ T3	wingsuit	41	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
-P	4	42	4	0	0	3878	221	562	7	4897	SycoDad1972
+P	4	42	5	0	0	4322	262	625	8	5535	SycoDad1972
 P	5	5	0	0	0	4149	168	683	13	4886	Boogie_Green
 P	6	8	8	0	0	4486	29	924	13	4867	RT25
 P	7	30	0	0	0	3974	101	654	3	4393	Страх34
@@ -45,7 +45,7 @@ R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
 R	pk	1	1	2500	Deryvier
 R	pk	2	4	1781	RayProtogn
-R	pk	3	42	221	SycoDad1972
+R	pk	3	42	262	SycoDad1972
 R	ik	1	1	33823	Deryvier
 R	ik	2	4	9797	RayProtogn
 R	ik	3	6	9158	persikzdes
@@ -60,4 +60,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	59	124058	6278	22470	282
+Z	60	124502	6319	22533	283
