@@ -2,9 +2,9 @@ T3	wingsuit	54	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	6	10	0	0	9158	150	1722	21	10113	persikzdes
-P	4	61	0	0	0	4279	473	683	8	6211	gloodgy
+P	4	61	0	0	0	5326	537	859	9	7519	gloodgy
 P	5	42	5	0	0	4322	262	625	8	5535	SycoDad1972
-P	6	59	2	0	0	4002	259	528	8	5128	BEAST OF BANYUE
+P	6	59	2	0	0	4070	266	537	10	5234	BEAST OF BANYUE
 P	7	5	0	0	0	4149	168	683	13	4886	Boogie_Green
 P	8	8	8	0	0	4486	29	924	13	4867	RT25
 P	9	30	0	0	0	3974	101	654	3	4393	Страх34
@@ -58,7 +58,7 @@ R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
 R	pk	1	1	2500	Deryvier
 R	pk	2	4	1781	RayProtogn
-R	pk	3	61	473	gloodgy
+R	pk	3	61	537	gloodgy
 R	ik	1	1	33823	Deryvier
 R	ik	2	4	9797	RayProtogn
 R	ik	3	6	9158	persikzdes
@@ -73,4 +73,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	5	13	Boogie_Green
-Z	67	144171	7457	25458	330
+Z	67	145286	7528	25643	333
