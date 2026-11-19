@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T04:42:55+00:00",
-    "players": 66,
+    "updated": "2026-11-19T04:44:55+00:00",
+    "players": 67,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 75,
-        "a": 170707,
-        "b": 8646,
-        "c": 29982,
-        "e": 378
+        "a": 171057,
+        "b": 8652,
+        "c": 30059,
+        "e": 379
     },
     "top": [
         {
@@ -790,6 +790,19 @@
         },
         {
             "rank": 60,
+            "id": 79,
+            "name": "LilZombiePuppy",
+            "points": 379,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 350,
+            "b": 6,
+            "c": 77,
+            "e": 1
+        },
+        {
+            "rank": 61,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -802,7 +815,7 @@
             "e": 1
         },
         {
-            "rank": 61,
+            "rank": 62,
             "id": 74,
             "name": "크리본_Cribon",
             "points": 329,
@@ -815,7 +828,7 @@
             "e": 1
         },
         {
-            "rank": 62,
+            "rank": 63,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -828,7 +841,7 @@
             "e": 1
         },
         {
-            "rank": 63,
+            "rank": 64,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -841,7 +854,7 @@
             "e": 1
         },
         {
-            "rank": 64,
+            "rank": 65,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -854,7 +867,7 @@
             "e": 1
         },
         {
-            "rank": 65,
+            "rank": 66,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -867,7 +880,7 @@
             "e": 1
         },
         {
-            "rank": 66,
+            "rank": 67,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
