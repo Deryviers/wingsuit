@@ -1,4 +1,4 @@
-T3	wingsuit	65	points	25	0	0	1	4	10	0	5
+T3	wingsuit	66	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	61	0	0	0	8883	884	1476	14	12489	gloodgy
@@ -36,34 +36,35 @@ P	34	65	2	0	0	1372	50	216	3	1637	TheEolos 4ea8
 P	35	68	0	0	0	1331	66	292	2	1605	ᴇᴍᴍɪ
 P	36	71	1	0	0	1464	17	226	3	1572	oliveyous
 P	37	22	0	0	0	1056	113	145	4	1528	Flintツ
-P	38	72	0	0	0	1100	86	153	5	1469	MysterSyn
-P	39	73	2	0	0	1361	8	221	2	1453	core-potte
-P	40	23	0	0	0	1338	5	306	3	1373	Chomik465
-P	41	40	0	0	0	1156	26	357	4	1280	Slim Sweaty
-P	42	49	0	0	0	988	47	122	4	1196	Kyutatsuki
-P	43	46	0	0	0	1131	5	245	3	1166	Elais_Ainsworth
-P	44	12	1	0	0	1017	25	188	3	1157	_lof_
-P	45	48	0	0	0	1070	20	154	1	1155	モクターン
-P	46	57	0	0	0	976	34	151	2	1122	Amai Akai
-P	47	70	0	0	0	993	10	145	1	1038	かぬのkarin
-P	48	28	1	0	0	808	38	220	3	1000	Lesik_fox
-P	49	55	1	0	0	863	9	117	1	929	VeRiX_
-P	50	25	0	0	0	873	8	140	3	920	Aureal VR
-P	51	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
-P	52	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	53	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	54	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	55	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	56	75	0	0	0	419	28	53	1	536	Chen_CiG
-P	57	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	58	64	0	0	0	408	1	53	1	417	- PomPom -
-P	59	54	0	0	0	314	11	44	1	363	darkness66688
-P	60	74	0	0	0	300	6	77	1	329	크리본_Cribon
-P	61	36	0	0	0	159	16	20	1	228	TikaBundles
-P	62	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	63	45	0	0	0	129	1	23	1	138	The Oxorak
-P	64	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	65	56	0	0	0	44	1	7	1	53	Amillieo
+P	38	76	0	0	0	1201	77	187	1	1514	Sameiyn
+P	39	72	0	0	0	1100	86	153	5	1469	MysterSyn
+P	40	73	2	0	0	1361	8	221	2	1453	core-potte
+P	41	23	0	0	0	1338	5	306	3	1373	Chomik465
+P	42	40	0	0	0	1156	26	357	4	1280	Slim Sweaty
+P	43	49	0	0	0	988	47	122	4	1196	Kyutatsuki
+P	44	46	0	0	0	1131	5	245	3	1166	Elais_Ainsworth
+P	45	12	1	0	0	1017	25	188	3	1157	_lof_
+P	46	48	0	0	0	1070	20	154	1	1155	モクターン
+P	47	57	0	0	0	976	34	151	2	1122	Amai Akai
+P	48	70	0	0	0	993	10	145	1	1038	かぬのkarin
+P	49	28	1	0	0	808	38	220	3	1000	Lesik_fox
+P	50	55	1	0	0	863	9	117	1	929	VeRiX_
+P	51	25	0	0	0	873	8	140	3	920	Aureal VR
+P	52	53	3	0	0	799	5	133	4	914	Shawty-Doowop7
+P	53	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	54	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	55	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	56	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	57	75	0	0	0	419	28	53	1	536	Chen_CiG
+P	58	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	59	64	0	0	0	408	1	53	1	417	- PomPom -
+P	60	54	0	0	0	314	11	44	1	363	darkness66688
+P	61	74	0	0	0	300	6	77	1	329	크리본_Cribon
+P	62	36	0	0	0	159	16	20	1	228	TikaBundles
+P	63	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	64	45	0	0	0	129	1	23	1	138	The Oxorak
+P	65	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	66	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -84,4 +85,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	74	164433	8403	28981	369
+Z	74	165634	8480	29168	370
