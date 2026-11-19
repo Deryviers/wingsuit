@@ -1,5 +1,5 @@
-T3	wingsuit	2167	points	25	0	0	1	4	10	0	5
-P	1	1	19	0	0	38843	2982	6585	105	51771	Deryvier
+T3	wingsuit	2179	points	25	0	0	1	4	10	0	5
+P	1	1	19	0	0	39151	2984	6618	106	52092	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	464	6	0	0	8320	1100	1098	13	12935	zolo1512
 P	4	61	0	0	0	8883	884	1476	14	12489	gloodgy
@@ -102,10 +102,10 @@ P	100	30	0	0	0	3974	101	654	3	4393	Страх34
 R	w	1	1	19	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
-R	pk	1	1	2982	Deryvier
+R	pk	1	1	2984	Deryvier
 R	pk	2	4	1781	RayProtogn
 R	pk	3	490	1653	_Ori__
-R	ik	1	1	38843	Deryvier
+R	ik	1	1	39151	Deryvier
 R	ik	2	972	10560	Kagamine_Lily
 R	ik	3	1659	10527	Saya․∗
 R	gm	1	1	19	Deryvier
@@ -113,10 +113,10 @@ R	gm	2	6	10	persikzdes
 R	gm	3	8	8	RT25
 R	wr	1	1	1000	Deryvier
 R	wr	2	6	1000	persikzdes
-R	c3	1	1	6585	Deryvier
+R	c3	1	1	6618	Deryvier
 R	c3	2	724	2582	humpsy
 R	c3	3	1659	2197	Saya․∗
-R	c4	1	1	105	Deryvier
+R	c4	1	1	106	Deryvier
 R	c4	2	1842	27	toki_Yukawa
 R	c4	3	2379	23	Pollo amable
-Z	712	2804968	108078	483844	5593
+Z	716	2821073	108800	486462	5633
