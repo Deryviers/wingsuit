@@ -74,14 +74,14 @@ P	72	96	0	0	0	711	66	109	1	980	Nicolás Wangis
 P	73	110	0	0	0	852	27	99	2	970	nonchara_
 P	74	55	1	0	0	863	9	117	1	929	VeRiX_
 P	75	25	0	0	0	873	8	140	3	920	Aureal VR
-P	76	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	77	104	0	0	0	676	18	106	1	753	Motmsolodolo
-P	78	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	79	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	80	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	81	93	0	0	0	604	1	105	1	613	BALLZ_831 7b79
-P	82	113	0	0	0	554	8	78	1	591	Honda-ken
-P	83	115	0	0	0	502	9	57	2	548	nanaharu4523
+P	76	115	0	0	0	769	27	88	3	892	nanaharu4523
+P	77	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	78	104	0	0	0	676	18	106	1	753	Motmsolodolo
+P	79	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	80	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	81	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	82	93	0	0	0	604	1	105	1	613	BALLZ_831 7b79
+P	83	113	0	0	0	554	8	78	1	591	Honda-ken
 P	84	47	0	0	0	468	4	54	1	489	Hideo Go Home
 P	85	111	0	0	0	420	3	48	1	437	BigSmokinJoe
 P	86	64	0	0	0	408	1	53	1	417	- PomPom -
@@ -116,4 +116,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	90	222983	11720	38584	485
+Z	90	223250	11738	38615	486
