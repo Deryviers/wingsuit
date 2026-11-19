@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T01:15:32+00:00",
-    "players": 40,
+    "updated": "2026-11-19T01:19:25+00:00",
+    "players": 41,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 59,
-        "a": 122311,
-        "b": 6254,
-        "c": 22157,
-        "e": 280
+        "a": 124058,
+        "b": 6278,
+        "c": 22470,
+        "e": 282
     },
     "top": [
         {
@@ -387,6 +387,19 @@
         },
         {
             "rank": 29,
+            "id": 46,
+            "name": "Elais_Ainsworth",
+            "points": 1166,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 1131,
+            "b": 5,
+            "c": 245,
+            "e": 3
+        },
+        {
+            "rank": 30,
             "id": 12,
             "name": "_lof_",
             "points": 1157,
@@ -399,7 +412,20 @@
             "e": 3
         },
         {
-            "rank": 30,
+            "rank": 31,
+            "id": 48,
+            "name": "モクターン",
+            "points": 1155,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 1070,
+            "b": 20,
+            "c": 154,
+            "e": 1
+        },
+        {
+            "rank": 32,
             "id": 28,
             "name": "Lesik_fox",
             "points": 1000,
@@ -412,7 +438,7 @@
             "e": 3
         },
         {
-            "rank": 31,
+            "rank": 33,
             "id": 25,
             "name": "Aureal VR",
             "points": 920,
@@ -425,7 +451,7 @@
             "e": 3
         },
         {
-            "rank": 32,
+            "rank": 34,
             "id": 34,
             "name": "Ντεζιρέ·xoxo",
             "points": 797,
@@ -438,7 +464,7 @@
             "e": 2
         },
         {
-            "rank": 33,
+            "rank": 35,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -451,7 +477,7 @@
             "e": 1
         },
         {
-            "rank": 34,
+            "rank": 36,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -464,7 +490,7 @@
             "e": 3
         },
         {
-            "rank": 35,
+            "rank": 37,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -477,20 +503,7 @@
             "e": 1
         },
         {
-            "rank": 36,
-            "id": 46,
-            "name": "Elais_Ainsworth",
-            "points": 468,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 454,
-            "b": 1,
-            "c": 86,
-            "e": 2
-        },
-        {
-            "rank": 37,
+            "rank": 38,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -503,7 +516,7 @@
             "e": 1
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -516,7 +529,7 @@
             "e": 1
         },
         {
-            "rank": 39,
+            "rank": 40,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -529,7 +542,7 @@
             "e": 1
         },
         {
-            "rank": 40,
+            "rank": 41,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
