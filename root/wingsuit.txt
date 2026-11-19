@@ -1,4 +1,4 @@
-T3	wingsuit	93	points	25	0	0	1	4	10	0	5
+T3	wingsuit	94	points	25	0	0	1	4	10	0	5
 P	1	1	18	0	0	33823	2500	5837	94	44743	Deryvier
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	61	0	0	0	8883	884	1476	14	12489	gloodgy
@@ -71,27 +71,28 @@ P	69	105	1	0	0	988	0	142	1	1018	ルナ紅音
 P	70	28	1	0	0	808	38	220	3	1000	Lesik_fox
 P	71	95	0	0	0	879	25	119	1	984	༒ Voidsiah༒
 P	72	96	0	0	0	711	66	109	1	980	Nicolás Wangis
-P	73	55	1	0	0	863	9	117	1	929	VeRiX_
-P	74	25	0	0	0	873	8	140	3	920	Aureal VR
-P	75	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
-P	76	104	0	0	0	676	18	106	1	753	Motmsolodolo
-P	77	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
-P	78	50	0	0	0	594	8	91	2	636	Rusty Beans
-P	79	14	0	0	0	528	20	56	3	623	[1] Local Player
-P	80	93	0	0	0	604	1	105	1	613	BALLZ_831 7b79
-P	81	47	0	0	0	468	4	54	1	489	Hideo Go Home
-P	82	64	0	0	0	408	1	53	1	417	- PomPom -
-P	83	108	0	0	0	329	8	65	1	366	いずみ（izumi）
-P	84	54	0	0	0	314	11	44	1	363	darkness66688
-P	85	110	0	0	0	311	8	39	1	348	nonchara_
-P	86	100	0	0	0	278	16	43	1	347	Mikarza
-P	87	74	0	0	0	300	6	77	1	329	크리본_Cribon
-P	88	36	0	0	0	159	16	20	1	228	TikaBundles
-P	89	85	0	0	0	206	0	36	1	211	けだまおばけ
-P	90	21	0	0	0	105	10	14	1	150	_Elizabet_
-P	91	45	0	0	0	129	1	23	1	138	The Oxorak
-P	92	3	0	0	0	98	2	18	1	111	text․r d1ce
-P	93	56	0	0	0	44	1	7	1	53	Amillieo
+P	73	110	0	0	0	852	27	99	2	970	nonchara_
+P	74	55	1	0	0	863	9	117	1	929	VeRiX_
+P	75	25	0	0	0	873	8	140	3	920	Aureal VR
+P	76	34	0	0	0	583	51	78	2	797	Ντεζιρέ·xoxo
+P	77	104	0	0	0	676	18	106	1	753	Motmsolodolo
+P	78	43	0	0	0	611	8	73	1	648	Mrs․Dodson 0c2c
+P	79	50	0	0	0	594	8	91	2	636	Rusty Beans
+P	80	14	0	0	0	528	20	56	3	623	[1] Local Player
+P	81	93	0	0	0	604	1	105	1	613	BALLZ_831 7b79
+P	82	47	0	0	0	468	4	54	1	489	Hideo Go Home
+P	83	111	0	0	0	420	3	48	1	437	BigSmokinJoe
+P	84	64	0	0	0	408	1	53	1	417	- PomPom -
+P	85	108	0	0	0	329	8	65	1	366	いずみ（izumi）
+P	86	54	0	0	0	314	11	44	1	363	darkness66688
+P	87	100	0	0	0	278	16	43	1	347	Mikarza
+P	88	74	0	0	0	300	6	77	1	329	크리본_Cribon
+P	89	36	0	0	0	159	16	20	1	228	TikaBundles
+P	90	85	0	0	0	206	0	36	1	211	けだまおばけ
+P	91	21	0	0	0	105	10	14	1	150	_Elizabet_
+P	92	45	0	0	0	129	1	23	1	138	The Oxorak
+P	93	3	0	0	0	98	2	18	1	111	text․r d1ce
+P	94	56	0	0	0	44	1	7	1	53	Amillieo
 R	w	1	1	18	Deryvier
 R	w	2	6	10	persikzdes
 R	w	3	8	8	RT25
@@ -112,4 +113,4 @@ R	c3	3	6	1722	persikzdes
 R	c4	1	1	94	Deryvier
 R	c4	2	6	21	persikzdes
 R	c4	3	61	14	gloodgy
-Z	90	220663	11677	38310	479
+Z	90	221624	11699	38418	481
