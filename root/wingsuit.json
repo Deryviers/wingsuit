@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-19T04:46:55+00:00",
-    "players": 69,
+    "updated": "2026-11-19T04:48:59+00:00",
+    "players": 70,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 75,
-        "a": 171883,
-        "b": 8678,
-        "c": 30226,
-        "e": 382
+        "games": 76,
+        "a": 172964,
+        "b": 8692,
+        "c": 30527,
+        "e": 385
     },
     "top": [
         {
@@ -439,6 +439,19 @@
         },
         {
             "rank": 33,
+            "id": 53,
+            "name": "Shawty-Doowop7",
+            "points": 1818,
+            "w": 5,
+            "l": 0,
+            "d": 0,
+            "a": 1614,
+            "b": 11,
+            "c": 294,
+            "e": 7
+        },
+        {
+            "rank": 34,
             "id": 37,
             "name": "Meatgurt",
             "points": 1807,
@@ -451,7 +464,7 @@
             "e": 3
         },
         {
-            "rank": 34,
+            "rank": 35,
             "id": 51,
             "name": "PollenTomorrow",
             "points": 1692,
@@ -464,7 +477,7 @@
             "e": 3
         },
         {
-            "rank": 35,
+            "rank": 36,
             "id": 69,
             "name": "アリーズ",
             "points": 1687,
@@ -477,7 +490,7 @@
             "e": 2
         },
         {
-            "rank": 36,
+            "rank": 37,
             "id": 65,
             "name": "TheEolos 4ea8",
             "points": 1637,
@@ -490,7 +503,7 @@
             "e": 3
         },
         {
-            "rank": 37,
+            "rank": 38,
             "id": 68,
             "name": "ᴇᴍᴍɪ",
             "points": 1605,
@@ -503,7 +516,7 @@
             "e": 2
         },
         {
-            "rank": 38,
+            "rank": 39,
             "id": 71,
             "name": "oliveyous",
             "points": 1572,
@@ -514,19 +527,6 @@
             "b": 17,
             "c": 226,
             "e": 3
-        },
-        {
-            "rank": 39,
-            "id": 53,
-            "name": "Shawty-Doowop7",
-            "points": 1559,
-            "w": 4,
-            "l": 0,
-            "d": 0,
-            "a": 1393,
-            "b": 9,
-            "c": 248,
-            "e": 6
         },
         {
             "rank": 40,
@@ -725,6 +725,19 @@
         },
         {
             "rank": 55,
+            "id": 79,
+            "name": "LilZombiePuppy",
+            "points": 764,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 702,
+            "b": 13,
+            "c": 199,
+            "e": 2
+        },
+        {
+            "rank": 56,
             "id": 43,
             "name": "Mrs․Dodson 0c2c",
             "points": 648,
@@ -737,7 +750,7 @@
             "e": 1
         },
         {
-            "rank": 56,
+            "rank": 57,
             "id": 50,
             "name": "Rusty Beans",
             "points": 636,
@@ -750,7 +763,7 @@
             "e": 2
         },
         {
-            "rank": 57,
+            "rank": 58,
             "id": 14,
             "name": "[1] Local Player",
             "points": 623,
@@ -763,7 +776,20 @@
             "e": 3
         },
         {
-            "rank": 58,
+            "rank": 59,
+            "id": 78,
+            "name": "Camo225",
+            "points": 533,
+            "w": 0,
+            "l": 0,
+            "d": 0,
+            "a": 508,
+            "b": 5,
+            "c": 133,
+            "e": 1
+        },
+        {
+            "rank": 60,
             "id": 47,
             "name": "Hideo Go Home",
             "points": 489,
@@ -776,7 +802,7 @@
             "e": 1
         },
         {
-            "rank": 59,
+            "rank": 61,
             "id": 80,
             "name": "_stritrim",
             "points": 427,
@@ -789,7 +815,7 @@
             "e": 1
         },
         {
-            "rank": 60,
+            "rank": 62,
             "id": 64,
             "name": "- PomPom -",
             "points": 417,
@@ -802,20 +828,7 @@
             "e": 1
         },
         {
-            "rank": 61,
-            "id": 79,
-            "name": "LilZombiePuppy",
-            "points": 379,
-            "w": 0,
-            "l": 0,
-            "d": 0,
-            "a": 350,
-            "b": 6,
-            "c": 77,
-            "e": 1
-        },
-        {
-            "rank": 62,
+            "rank": 63,
             "id": 54,
             "name": "darkness66688",
             "points": 363,
@@ -828,7 +841,7 @@
             "e": 1
         },
         {
-            "rank": 63,
+            "rank": 64,
             "id": 77,
             "name": "Slater-_-",
             "points": 334,
@@ -841,7 +854,7 @@
             "e": 1
         },
         {
-            "rank": 64,
+            "rank": 65,
             "id": 74,
             "name": "크리본_Cribon",
             "points": 329,
@@ -854,7 +867,7 @@
             "e": 1
         },
         {
-            "rank": 65,
+            "rank": 66,
             "id": 36,
             "name": "TikaBundles",
             "points": 228,
@@ -867,7 +880,7 @@
             "e": 1
         },
         {
-            "rank": 66,
+            "rank": 67,
             "id": 21,
             "name": "_Elizabet_",
             "points": 150,
@@ -880,7 +893,7 @@
             "e": 1
         },
         {
-            "rank": 67,
+            "rank": 68,
             "id": 45,
             "name": "The Oxorak",
             "points": 138,
@@ -893,7 +906,7 @@
             "e": 1
         },
         {
-            "rank": 68,
+            "rank": 69,
             "id": 3,
             "name": "text․r d1ce",
             "points": 111,
@@ -906,7 +919,7 @@
             "e": 1
         },
         {
-            "rank": 69,
+            "rank": 70,
             "id": 56,
             "name": "Amillieo",
             "points": 53,
