@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-20T09:14:38+00:00",
-    "players": 8064,
+    "updated": "2026-11-20T09:16:39+00:00",
+    "players": 8066,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -15,10 +15,10 @@
     },
     "totals": {
         "games": 3370,
-        "a": 11778187,
-        "b": 488047,
-        "c": 1984752,
-        "e": 25654
+        "a": 11783058,
+        "b": 488257,
+        "c": 1985754,
+        "e": 25662
     },
     "top": [
         {
@@ -530,6 +530,19 @@
         },
         {
             "rank": 40,
+            "id": 8885,
+            "name": "monochromatica_",
+            "points": 11236,
+            "w": 6,
+            "l": 0,
+            "d": 0,
+            "a": 10333,
+            "b": 167,
+            "c": 2126,
+            "e": 17
+        },
+        {
+            "rank": 41,
             "id": 7270,
             "name": "SHAZAAM_TIME 0a4f",
             "points": 11229,
@@ -542,7 +555,7 @@
             "e": 24
         },
         {
-            "rank": 41,
+            "rank": 42,
             "id": 5607,
             "name": "Nepheria",
             "points": 10972,
@@ -555,7 +568,7 @@
             "e": 18
         },
         {
-            "rank": 42,
+            "rank": 43,
             "id": 1659,
             "name": "Saya․∗",
             "points": 10962,
@@ -568,7 +581,7 @@
             "e": 9
         },
         {
-            "rank": 43,
+            "rank": 44,
             "id": 3726,
             "name": "PeteMitchellF14",
             "points": 10896,
@@ -581,7 +594,7 @@
             "e": 23
         },
         {
-            "rank": 44,
+            "rank": 45,
             "id": 7948,
             "name": "movin_target",
             "points": 10857,
@@ -594,7 +607,7 @@
             "e": 15
         },
         {
-            "rank": 45,
+            "rank": 46,
             "id": 4975,
             "name": "ianx․549432 d0d4",
             "points": 10848,
@@ -607,7 +620,7 @@
             "e": 24
         },
         {
-            "rank": 46,
+            "rank": 47,
             "id": 8465,
             "name": "Buttcheekwonder",
             "points": 10829,
@@ -620,7 +633,7 @@
             "e": 23
         },
         {
-            "rank": 47,
+            "rank": 48,
             "id": 6410,
             "name": "Nekokittynya",
             "points": 10749,
@@ -633,7 +646,7 @@
             "e": 17
         },
         {
-            "rank": 48,
+            "rank": 49,
             "id": 5383,
             "name": "`blue`",
             "points": 10606,
@@ -646,7 +659,7 @@
             "e": 18
         },
         {
-            "rank": 49,
+            "rank": 50,
             "id": 9023,
             "name": "MeuronxD",
             "points": 10454,
@@ -659,7 +672,7 @@
             "e": 16
         },
         {
-            "rank": 50,
+            "rank": 51,
             "id": 3569,
             "name": "気shore",
             "points": 10447,
@@ -672,7 +685,7 @@
             "e": 13
         },
         {
-            "rank": 51,
+            "rank": 52,
             "id": 4294,
             "name": "Oscar_Kirtz_69 c4da",
             "points": 10423,
@@ -685,7 +698,7 @@
             "e": 15
         },
         {
-            "rank": 52,
+            "rank": 53,
             "id": 8886,
             "name": "ｌｅｏ－ｘｏｘｏ",
             "points": 10166,
@@ -698,7 +711,7 @@
             "e": 26
         },
         {
-            "rank": 53,
+            "rank": 54,
             "id": 4747,
             "name": "RainerWolf 山下和樹",
             "points": 10122,
@@ -711,7 +724,7 @@
             "e": 14
         },
         {
-            "rank": 54,
+            "rank": 55,
             "id": 6,
             "name": "persikzdes",
             "points": 10113,
@@ -724,7 +737,7 @@
             "e": 21
         },
         {
-            "rank": 55,
+            "rank": 56,
             "id": 6339,
             "name": "Ï The~Puppet ï",
             "points": 10070,
@@ -737,7 +750,7 @@
             "e": 22
         },
         {
-            "rank": 56,
+            "rank": 57,
             "id": 5346,
             "name": "Eternal1nstant",
             "points": 10065,
@@ -750,7 +763,7 @@
             "e": 10
         },
         {
-            "rank": 57,
+            "rank": 58,
             "id": 4303,
             "name": "R_i_d_d_i_c_k",
             "points": 9992,
@@ -763,7 +776,7 @@
             "e": 17
         },
         {
-            "rank": 58,
+            "rank": 59,
             "id": 804,
             "name": "FB5Slits",
             "points": 9915,
@@ -776,7 +789,7 @@
             "e": 12
         },
         {
-            "rank": 59,
+            "rank": 60,
             "id": 4212,
             "name": "bob․hayhurst․9 2f0c",
             "points": 9884,
@@ -789,7 +802,7 @@
             "e": 14
         },
         {
-            "rank": 60,
+            "rank": 61,
             "id": 6317,
             "name": "helloman246 b4e6",
             "points": 9803,
@@ -802,7 +815,7 @@
             "e": 23
         },
         {
-            "rank": 61,
+            "rank": 62,
             "id": 3808,
             "name": "Not a toaster00",
             "points": 9735,
@@ -815,7 +828,7 @@
             "e": 17
         },
         {
-            "rank": 62,
+            "rank": 63,
             "id": 2823,
             "name": "chester benn",
             "points": 9713,
@@ -828,7 +841,7 @@
             "e": 12
         },
         {
-            "rank": 63,
+            "rank": 64,
             "id": 6776,
             "name": "Sung _Jinwoo",
             "points": 9642,
@@ -839,19 +852,6 @@
             "b": 310,
             "c": 1208,
             "e": 21
-        },
-        {
-            "rank": 64,
-            "id": 8885,
-            "name": "monochromatica_",
-            "points": 9602,
-            "w": 6,
-            "l": 0,
-            "d": 0,
-            "a": 8728,
-            "b": 161,
-            "c": 1582,
-            "e": 16
         },
         {
             "rank": 65,
