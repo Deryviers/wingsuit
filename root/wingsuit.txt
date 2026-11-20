@@ -1,5 +1,5 @@
-T3	wingsuit	4469	points	25	0	0	1	4	10	0	5
-P	1	4344	21	0	0	18492	3758	3807	28	34189	Tanami
+T3	wingsuit	4482	points	25	0	0	1	4	10	0	5
+P	1	4344	21	0	0	18914	3762	3860	29	34632	Tanami
 P	2	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	3	2844	7	0	0	12580	661	1874	44	15619	Deryvier
 P	4	4343	7	0	0	12369	528	2085	12	14716	GloamLordLua
@@ -102,10 +102,10 @@ P	100	1788	0	0	0	3533	579	728	5	5874	プラズマ乳酸菌
 R	w	1	4344	21	Tanami
 R	w	2	4406	17	Shadow bnnuy
 R	w	3	4220	14	ArcaX
-R	pk	1	4344	3758	Tanami
+R	pk	1	4344	3762	Tanami
 R	pk	2	4	1781	RayProtogn
 R	pk	3	490	1653	_Ori__
-R	ik	1	4344	18492	Tanami
+R	ik	1	4344	18914	Tanami
 R	ik	2	2844	12580	Deryvier
 R	ik	3	4343	12369	GloamLordLua
 R	gm	1	4344	21	Tanami
@@ -114,10 +114,10 @@ R	gm	3	4220	14	ArcaX
 R	wr	1	4344	1000	Tanami
 R	wr	2	4406	1000	Shadow bnnuy
 R	wr	3	6	1000	persikzdes
-R	c3	1	4344	3807	Tanami
+R	c3	1	4344	3860	Tanami
 R	c3	2	2823	3152	chester benn
 R	c3	3	724	2582	humpsy
 R	c4	1	4406	51	Shadow bnnuy
 R	c4	2	2844	44	Deryvier
 R	c4	3	3748	39	hunterxcapy 8df2
-Z	1615	5991097	238481	1020421	12666
+Z	1621	6012697	239122	1023944	12708
