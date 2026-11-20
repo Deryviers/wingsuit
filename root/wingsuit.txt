@@ -1,6 +1,6 @@
-T3	wingsuit	5463	points	25	0	0	1	4	10	0	5
+T3	wingsuit	5479	points	25	0	0	1	4	10	0	5
 P	1	4344	28	0	0	24339	4556	4859	37	43448	Tanami
-P	2	4697	7	0	0	19020	529	3206	22	21421	random876
+P	2	4697	7	0	0	20295	662	3440	23	23233	random876
 P	3	2317	9	0	0	12055	1342	1870	14	17718	TheyCallMeSpoon
 P	4	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	5	2844	7	0	0	12580	661	1874	44	15619	Deryvier
@@ -106,7 +106,7 @@ R	pk	1	4344	4556	Tanami
 R	pk	2	4	1781	RayProtogn
 R	pk	3	490	1653	_Ori__
 R	ik	1	4344	24339	Tanami
-R	ik	2	4697	19020	random876
+R	ik	2	4697	20295	random876
 R	ik	3	2844	12580	Deryvier
 R	gm	1	4344	28	Tanami
 R	gm	2	4406	17	Shadow bnnuy
@@ -115,9 +115,9 @@ R	wr	1	4344	1000	Tanami
 R	wr	2	4406	1000	Shadow bnnuy
 R	wr	3	6	1000	persikzdes
 R	c3	1	4344	4859	Tanami
-R	c3	2	4697	3206	random876
+R	c3	2	4697	3440	random876
 R	c3	3	2823	3152	chester benn
 R	c4	1	4406	51	Shadow bnnuy
 R	c4	2	2844	44	Deryvier
 R	c4	3	3748	39	hunterxcapy 8df2
-Z	2014	7465500	296807	1269892	16079
+Z	2019	7487038	298021	1273641	16131
