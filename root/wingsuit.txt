@@ -1,5 +1,5 @@
-T3	wingsuit	10756	points	25	0	0	1	4	10	0	5
-P	1	9333	26	0	0	28466	10386	3784	66	70990	ღ AlphaGoddess
+T3	wingsuit	10763	points	25	0	0	1	4	10	0	5
+P	1	9333	26	0	0	28985	10670	3843	67	72650	ღ AlphaGoddess
 P	2	8462	22	0	0	22586	6319	3223	40	48612	Blissevo
 P	3	4344	28	0	0	24339	4556	4859	37	43448	Tanami
 P	4	4697	12	0	0	30071	1062	5079	42	34829	random876
@@ -102,12 +102,12 @@ P	100	9781	2	0	0	7434	400	1233	10	9134	AstraCat
 R	w	1	4344	28	Tanami
 R	w	2	9333	26	ღ AlphaGoddess
 R	w	3	8462	22	Blissevo
-R	pk	1	9333	10386	ღ AlphaGoddess
+R	pk	1	9333	10670	ღ AlphaGoddess
 R	pk	2	8462	6319	Blissevo
 R	pk	3	4344	4556	Tanami
 R	ik	1	4697	30071	random876
-R	ik	2	6713	28782	SlimeW
-R	ik	3	9333	28466	ღ AlphaGoddess
+R	ik	2	9333	28985	ღ AlphaGoddess
+R	ik	3	6713	28782	SlimeW
 R	gm	1	4344	28	Tanami
 R	gm	2	9333	26	ღ AlphaGoddess
 R	gm	3	8462	22	Blissevo
@@ -117,7 +117,7 @@ R	wr	3	4344	1000	Tanami
 R	c3	1	4697	5079	random876
 R	c3	2	4344	4859	Tanami
 R	c3	3	6713	4392	SlimeW
-R	c4	1	2844	67	Deryvier
-R	c4	2	9333	66	ღ AlphaGoddess
+R	c4	1	9333	67	ღ AlphaGoddess
+R	c4	2	2844	67	Deryvier
 R	c4	3	4406	51	Shadow bnnuy
-Z	4923	15944221	666192	2697044	34329
+Z	4925	15953757	666771	2698656	34356
