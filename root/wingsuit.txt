@@ -1,5 +1,5 @@
-T3	wingsuit	24101	points	25	0	0	1	4	10	0	5
-P	1	9333	79	0	0	84486	45880	10924	195	270956	ღ AlphaGoddess
+T3	wingsuit	24106	points	25	0	0	1	4	10	0	5
+P	1	9333	79	0	0	84633	45890	10943	196	271148	ღ AlphaGoddess
 P	2	25120	60	0	0	74072	19265	10648	97	153117	Seraphyna
 P	3	19961	53	0	0	133048	4110	19453	215	151888	mihanit
 P	4	23789	43	0	0	35963	18616	5405	85	111927	megaoz
@@ -102,11 +102,11 @@ P	100	23874	16	0	0	14067	628	2078	27	17114	Skellybonesart fc37
 R	w	1	9333	79	ღ AlphaGoddess
 R	w	2	15333	69	∗TBO∗
 R	w	3	12616	69	scuba2 dd7e
-R	pk	1	9333	45880	ღ AlphaGoddess
+R	pk	1	9333	45890	ღ AlphaGoddess
 R	pk	2	25120	19265	Seraphyna
 R	pk	3	23789	18616	megaoz
 R	ik	1	19961	133048	mihanit
-R	ik	2	9333	84486	ღ AlphaGoddess
+R	ik	2	9333	84633	ღ AlphaGoddess
 R	ik	3	15333	80710	∗TBO∗
 R	gm	1	9333	79	ღ AlphaGoddess
 R	gm	2	15333	69	∗TBO∗
@@ -116,8 +116,8 @@ R	wr	2	25120	1000	Seraphyna
 R	wr	3	19961	1000	mihanit
 R	c3	1	15333	21252	∗TBO∗
 R	c3	2	19961	19453	mihanit
-R	c3	3	9333	10924	ღ AlphaGoddess
+R	c3	3	9333	10943	ღ AlphaGoddess
 R	c4	1	19961	215	mihanit
-R	c4	2	9333	195	ღ AlphaGoddess
+R	c4	2	9333	196	ღ AlphaGoddess
 R	c4	3	12616	178	scuba2 dd7e
-Z	17330	41191742	1944348	6904074	93363
+Z	17334	41198868	1944575	6905222	93385
