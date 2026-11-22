@@ -1,5 +1,5 @@
-T3	wingsuit	24177	points	25	0	0	1	4	10	0	5
-P	1	9333	79	0	0	85427	46311	11052	197	273631	ღ AlphaGoddess
+T3	wingsuit	24184	points	25	0	0	1	4	10	0	5
+P	1	9333	80	0	0	86204	46708	11145	199	276031	ღ AlphaGoddess
 P	2	25120	60	0	0	74072	19265	10648	97	153117	Seraphyna
 P	3	19961	53	0	0	133048	4110	19453	215	151888	mihanit
 P	4	15333	74	0	0	87065	5715	22321	123	112390	∗TBO∗
@@ -99,16 +99,16 @@ P	97	25168	4	0	0	8070	2237	1310	22	17228	Emperor of Dirt
 P	98	19188	13	0	0	13376	835	1954	18	17131	_v_にゅくす_v_
 P	99	4	6	0	0	9797	1781	2189	12	17131	RayProtogn
 P	100	23874	16	0	0	14067	628	2078	27	17114	Skellybonesart fc37
-R	w	1	9333	79	ღ AlphaGoddess
+R	w	1	9333	80	ღ AlphaGoddess
 R	w	2	15333	74	∗TBO∗
 R	w	3	12616	69	scuba2 dd7e
-R	pk	1	9333	46311	ღ AlphaGoddess
+R	pk	1	9333	46708	ღ AlphaGoddess
 R	pk	2	25120	19265	Seraphyna
 R	pk	3	23789	18616	megaoz
 R	ik	1	19961	133048	mihanit
 R	ik	2	15333	87065	∗TBO∗
-R	ik	3	9333	85427	ღ AlphaGoddess
-R	gm	1	9333	79	ღ AlphaGoddess
+R	ik	3	9333	86204	ღ AlphaGoddess
+R	gm	1	9333	80	ღ AlphaGoddess
 R	gm	2	15333	74	∗TBO∗
 R	gm	3	12616	69	scuba2 dd7e
 R	wr	1	9333	1000	ღ AlphaGoddess
@@ -116,8 +116,8 @@ R	wr	2	25120	1000	Seraphyna
 R	wr	3	19961	1000	mihanit
 R	c3	1	15333	22321	∗TBO∗
 R	c3	2	19961	19453	mihanit
-R	c3	3	9333	11052	ღ AlphaGoddess
+R	c3	3	9333	11145	ღ AlphaGoddess
 R	c4	1	19961	215	mihanit
-R	c4	2	9333	197	ღ AlphaGoddess
+R	c4	2	9333	199	ღ AlphaGoddess
 R	c4	3	12616	178	scuba2 dd7e
-Z	17410	41339249	1951924	6927730	93740
+Z	17415	41351054	1953088	6929604	93772
