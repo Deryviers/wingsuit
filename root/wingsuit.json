@@ -1,8 +1,8 @@
 {
     "game": "wingsuit",
     "title": "Вингсьют — полёты",
-    "updated": "2026-11-23T22:24:44+00:00",
-    "players": 27806,
+    "updated": "2026-11-23T22:26:45+00:00",
+    "players": 27809,
     "sort": "points",
     "weights": {
         "w": 25,
@@ -14,11 +14,11 @@
         "e": 5
     },
     "totals": {
-        "games": 21287,
-        "a": 49218693,
-        "b": 2358579,
-        "c": 8228387,
-        "e": 112053
+        "games": 21237,
+        "a": 49150298,
+        "b": 2354132,
+        "c": 8218121,
+        "e": 111898
     },
     "top": [
         {
@@ -114,19 +114,6 @@
         },
         {
             "rank": 8,
-            "id": 2844,
-            "name": "Deryvier",
-            "points": 93516,
-            "w": 54,
-            "l": 0,
-            "d": 0,
-            "a": 73001,
-            "b": 4580,
-            "c": 10968,
-            "e": 169
-        },
-        {
-            "rank": 9,
             "id": 13415,
             "name": "Macatia Choco",
             "points": 82243,
@@ -139,7 +126,7 @@
             "e": 44
         },
         {
-            "rank": 10,
+            "rank": 9,
             "id": 21100,
             "name": "brizzby",
             "points": 81205,
@@ -152,7 +139,7 @@
             "e": 75
         },
         {
-            "rank": 11,
+            "rank": 10,
             "id": 3269,
             "name": "HibiscusRoselle",
             "points": 81042,
@@ -165,7 +152,7 @@
             "e": 37
         },
         {
-            "rank": 12,
+            "rank": 11,
             "id": 17971,
             "name": "マシュモチ",
             "points": 71426,
@@ -178,7 +165,7 @@
             "e": 84
         },
         {
-            "rank": 13,
+            "rank": 12,
             "id": 17207,
             "name": "蔬菜沙拉",
             "points": 61172,
@@ -191,7 +178,7 @@
             "e": 55
         },
         {
-            "rank": 14,
+            "rank": 13,
             "id": 23458,
             "name": "ProGamer2500",
             "points": 59171,
@@ -204,7 +191,7 @@
             "e": 74
         },
         {
-            "rank": 15,
+            "rank": 14,
             "id": 22221,
             "name": "AndyNase",
             "points": 58442,
@@ -217,7 +204,7 @@
             "e": 27
         },
         {
-            "rank": 16,
+            "rank": 15,
             "id": 12134,
             "name": "Un1xVR",
             "points": 57018,
@@ -230,7 +217,7 @@
             "e": 89
         },
         {
-            "rank": 17,
+            "rank": 16,
             "id": 12927,
             "name": "Octo10 e6ba",
             "points": 55332,
@@ -243,7 +230,7 @@
             "e": 171
         },
         {
-            "rank": 18,
+            "rank": 17,
             "id": 12707,
             "name": "Rime_Fox",
             "points": 54583,
@@ -256,7 +243,7 @@
             "e": 32
         },
         {
-            "rank": 19,
+            "rank": 18,
             "id": 23699,
             "name": "Lumatic_studios",
             "points": 52297,
@@ -269,7 +256,7 @@
             "e": 59
         },
         {
-            "rank": 20,
+            "rank": 19,
             "id": 19218,
             "name": "ProToasterOwO",
             "points": 52241,
@@ -282,7 +269,7 @@
             "e": 54
         },
         {
-            "rank": 21,
+            "rank": 20,
             "id": 12617,
             "name": "JustDJBubba23 489c",
             "points": 50876,
@@ -295,7 +282,7 @@
             "e": 160
         },
         {
-            "rank": 22,
+            "rank": 21,
             "id": 12616,
             "name": "scuba2 dd7e",
             "points": 48716,
@@ -308,7 +295,7 @@
             "e": 186
         },
         {
-            "rank": 23,
+            "rank": 22,
             "id": 8462,
             "name": "Blissevo",
             "points": 48612,
@@ -321,7 +308,7 @@
             "e": 40
         },
         {
-            "rank": 24,
+            "rank": 23,
             "id": 18283,
             "name": "ღ Shadow ღ",
             "points": 47370,
@@ -334,7 +321,7 @@
             "e": 45
         },
         {
-            "rank": 25,
+            "rank": 24,
             "id": 19241,
             "name": "小储同学",
             "points": 45189,
@@ -347,7 +334,7 @@
             "e": 26
         },
         {
-            "rank": 26,
+            "rank": 25,
             "id": 4344,
             "name": "Tanami",
             "points": 43448,
@@ -360,7 +347,7 @@
             "e": 37
         },
         {
-            "rank": 27,
+            "rank": 26,
             "id": 3380,
             "name": "Iridex c100",
             "points": 41762,
@@ -373,7 +360,7 @@
             "e": 56
         },
         {
-            "rank": 28,
+            "rank": 27,
             "id": 19079,
             "name": "gumiyaro",
             "points": 41554,
@@ -386,7 +373,7 @@
             "e": 16
         },
         {
-            "rank": 29,
+            "rank": 28,
             "id": 4596,
             "name": "JumboPanda7282 78d5",
             "points": 41148,
@@ -399,7 +386,7 @@
             "e": 106
         },
         {
-            "rank": 30,
+            "rank": 29,
             "id": 6429,
             "name": "Kingmaxxx 8edf",
             "points": 40097,
@@ -412,7 +399,7 @@
             "e": 77
         },
         {
-            "rank": 31,
+            "rank": 30,
             "id": 4697,
             "name": "random876",
             "points": 39956,
@@ -425,7 +412,7 @@
             "e": 46
         },
         {
-            "rank": 32,
+            "rank": 31,
             "id": 18191,
             "name": "とくちゃ 5740",
             "points": 38948,
@@ -438,7 +425,7 @@
             "e": 45
         },
         {
-            "rank": 33,
+            "rank": 32,
             "id": 5346,
             "name": "Eternal1nstant",
             "points": 38655,
@@ -451,7 +438,7 @@
             "e": 34
         },
         {
-            "rank": 34,
+            "rank": 33,
             "id": 6713,
             "name": "SlimeW",
             "points": 38353,
@@ -464,7 +451,7 @@
             "e": 31
         },
         {
-            "rank": 35,
+            "rank": 34,
             "id": 17606,
             "name": "WDG_Death",
             "points": 36609,
@@ -477,7 +464,7 @@
             "e": 28
         },
         {
-            "rank": 36,
+            "rank": 35,
             "id": 13547,
             "name": "Missusneon a71f",
             "points": 35653,
@@ -490,7 +477,7 @@
             "e": 88
         },
         {
-            "rank": 37,
+            "rank": 36,
             "id": 10803,
             "name": "malshmarrow",
             "points": 34799,
@@ -503,7 +490,7 @@
             "e": 22
         },
         {
-            "rank": 38,
+            "rank": 37,
             "id": 23898,
             "name": "Publixs",
             "points": 33780,
@@ -516,7 +503,7 @@
             "e": 53
         },
         {
-            "rank": 39,
+            "rank": 38,
             "id": 7178,
             "name": "Gimmenuggets 16e7",
             "points": 33431,
@@ -529,7 +516,7 @@
             "e": 46
         },
         {
-            "rank": 40,
+            "rank": 39,
             "id": 22475,
             "name": "DrunkenSnipes",
             "points": 33242,
@@ -542,7 +529,7 @@
             "e": 17
         },
         {
-            "rank": 41,
+            "rank": 40,
             "id": 20492,
             "name": "NinjaNuge fc3b",
             "points": 32990,
@@ -555,7 +542,7 @@
             "e": 56
         },
         {
-            "rank": 42,
+            "rank": 41,
             "id": 26056,
             "name": "lemantor1234 vr",
             "points": 32382,
@@ -568,7 +555,7 @@
             "e": 38
         },
         {
-            "rank": 43,
+            "rank": 42,
             "id": 25239,
             "name": "Awesomspiritcat21",
             "points": 29854,
@@ -581,7 +568,7 @@
             "e": 38
         },
         {
-            "rank": 44,
+            "rank": 43,
             "id": 9589,
             "name": "ひろみゆっき",
             "points": 29433,
@@ -594,7 +581,7 @@
             "e": 42
         },
         {
-            "rank": 45,
+            "rank": 44,
             "id": 20703,
             "name": "イチジョウマン",
             "points": 29198,
@@ -607,7 +594,7 @@
             "e": 28
         },
         {
-            "rank": 46,
+            "rank": 45,
             "id": 2317,
             "name": "TheyCallMeSpoon",
             "points": 28862,
@@ -620,7 +607,7 @@
             "e": 25
         },
         {
-            "rank": 47,
+            "rank": 46,
             "id": 22939,
             "name": "kimbochat ae2b",
             "points": 28564,
@@ -633,7 +620,7 @@
             "e": 61
         },
         {
-            "rank": 48,
+            "rank": 47,
             "id": 27902,
             "name": "ねこたゃん",
             "points": 28545,
@@ -646,7 +633,7 @@
             "e": 16
         },
         {
-            "rank": 49,
+            "rank": 48,
             "id": 19849,
             "name": "pulntm",
             "points": 28345,
@@ -659,7 +646,7 @@
             "e": 26
         },
         {
-            "rank": 50,
+            "rank": 49,
             "id": 12356,
             "name": "SpryCello821867",
             "points": 27749,
@@ -672,7 +659,7 @@
             "e": 43
         },
         {
-            "rank": 51,
+            "rank": 50,
             "id": 28871,
             "name": "-_THUNDER_-",
             "points": 27293,
@@ -685,7 +672,7 @@
             "e": 45
         },
         {
-            "rank": 52,
+            "rank": 51,
             "id": 14507,
             "name": "stellaandsoph cac5",
             "points": 26538,
@@ -698,7 +685,7 @@
             "e": 62
         },
         {
-            "rank": 53,
+            "rank": 52,
             "id": 8597,
             "name": "『JT』",
             "points": 26238,
@@ -711,7 +698,7 @@
             "e": 30
         },
         {
-            "rank": 54,
+            "rank": 53,
             "id": 14957,
             "name": "Tiffany N",
             "points": 26089,
@@ -724,7 +711,7 @@
             "e": 74
         },
         {
-            "rank": 55,
+            "rank": 54,
             "id": 16569,
             "name": "ZombieSCU33",
             "points": 25981,
@@ -737,7 +724,7 @@
             "e": 37
         },
         {
-            "rank": 56,
+            "rank": 55,
             "id": 26360,
             "name": "otarun",
             "points": 25805,
@@ -750,7 +737,7 @@
             "e": 21
         },
         {
-            "rank": 57,
+            "rank": 56,
             "id": 8773,
             "name": "Liondeath18",
             "points": 25779,
@@ -763,7 +750,7 @@
             "e": 29
         },
         {
-            "rank": 58,
+            "rank": 57,
             "id": 8727,
             "name": "StarThree401961",
             "points": 25738,
@@ -776,7 +763,7 @@
             "e": 42
         },
         {
-            "rank": 59,
+            "rank": 58,
             "id": 11975,
             "name": "DrummerKid007 175a",
             "points": 25555,
@@ -789,7 +776,7 @@
             "e": 44
         },
         {
-            "rank": 60,
+            "rank": 59,
             "id": 1659,
             "name": "Saya․∗",
             "points": 25555,
@@ -802,7 +789,7 @@
             "e": 30
         },
         {
-            "rank": 61,
+            "rank": 60,
             "id": 9471,
             "name": "モリゲン",
             "points": 25403,
@@ -815,7 +802,7 @@
             "e": 12
         },
         {
-            "rank": 62,
+            "rank": 61,
             "id": 31163,
             "name": "ざき・よーじ",
             "points": 25374,
@@ -828,7 +815,7 @@
             "e": 20
         },
         {
-            "rank": 63,
+            "rank": 62,
             "id": 13099,
             "name": "xxvickitxx 31b2",
             "points": 25275,
@@ -841,7 +828,7 @@
             "e": 73
         },
         {
-            "rank": 64,
+            "rank": 63,
             "id": 21263,
             "name": "Dylnado013 a384",
             "points": 25237,
@@ -854,7 +841,7 @@
             "e": 32
         },
         {
-            "rank": 65,
+            "rank": 64,
             "id": 29013,
             "name": "dougiefresh․611570 acb2",
             "points": 24628,
@@ -867,7 +854,7 @@
             "e": 37
         },
         {
-            "rank": 66,
+            "rank": 65,
             "id": 18039,
             "name": "さやえんどう_SayaEndo",
             "points": 24580,
@@ -880,7 +867,7 @@
             "e": 25
         },
         {
-            "rank": 67,
+            "rank": 66,
             "id": 31409,
             "name": "El Vito Bandito",
             "points": 24393,
@@ -893,7 +880,7 @@
             "e": 11
         },
         {
-            "rank": 68,
+            "rank": 67,
             "id": 14962,
             "name": "spikevhal",
             "points": 24260,
@@ -906,7 +893,7 @@
             "e": 70
         },
         {
-            "rank": 69,
+            "rank": 68,
             "id": 15487,
             "name": "'Spookii'",
             "points": 24098,
@@ -919,7 +906,7 @@
             "e": 29
         },
         {
-            "rank": 70,
+            "rank": 69,
             "id": 27548,
             "name": "Jaxsty 2120",
             "points": 23993,
@@ -932,7 +919,7 @@
             "e": 68
         },
         {
-            "rank": 71,
+            "rank": 70,
             "id": 6241,
             "name": "RadiantHammerhead5214 b26f",
             "points": 23761,
@@ -945,7 +932,7 @@
             "e": 19
         },
         {
-            "rank": 72,
+            "rank": 71,
             "id": 6739,
             "name": "lihofer",
             "points": 23711,
@@ -958,7 +945,7 @@
             "e": 13
         },
         {
-            "rank": 73,
+            "rank": 72,
             "id": 14139,
             "name": "うにあじ",
             "points": 23641,
@@ -971,7 +958,7 @@
             "e": 25
         },
         {
-            "rank": 74,
+            "rank": 73,
             "id": 17121,
             "name": "༒愛Skull愛༒",
             "points": 23552,
@@ -984,7 +971,7 @@
             "e": 44
         },
         {
-            "rank": 75,
+            "rank": 74,
             "id": 28366,
             "name": "Foxxy Chiller",
             "points": 23349,
@@ -997,7 +984,7 @@
             "e": 22
         },
         {
-            "rank": 76,
+            "rank": 75,
             "id": 12894,
             "name": "The_Dogman5",
             "points": 23016,
@@ -1010,7 +997,7 @@
             "e": 50
         },
         {
-            "rank": 77,
+            "rank": 76,
             "id": 19686,
             "name": "泡菜可以吗",
             "points": 22998,
@@ -1023,7 +1010,7 @@
             "e": 9
         },
         {
-            "rank": 78,
+            "rank": 77,
             "id": 17617,
             "name": "janall",
             "points": 22964,
@@ -1036,7 +1023,7 @@
             "e": 31
         },
         {
-            "rank": 79,
+            "rank": 78,
             "id": 19169,
             "name": "JuiceKind",
             "points": 22786,
@@ -1049,7 +1036,7 @@
             "e": 17
         },
         {
-            "rank": 80,
+            "rank": 79,
             "id": 5622,
             "name": "kingdjtrollex",
             "points": 22775,
@@ -1062,7 +1049,7 @@
             "e": 64
         },
         {
-            "rank": 81,
+            "rank": 80,
             "id": 31405,
             "name": "Icy_Luna",
             "points": 22709,
@@ -1075,7 +1062,7 @@
             "e": 18
         },
         {
-            "rank": 82,
+            "rank": 81,
             "id": 23167,
             "name": "game_bomb6560",
             "points": 22492,
@@ -1088,7 +1075,7 @@
             "e": 29
         },
         {
-            "rank": 83,
+            "rank": 82,
             "id": 13914,
             "name": "BlackDragon BD",
             "points": 22350,
@@ -1101,7 +1088,7 @@
             "e": 17
         },
         {
-            "rank": 84,
+            "rank": 83,
             "id": 1429,
             "name": "Zydawn",
             "points": 21936,
@@ -1114,7 +1101,7 @@
             "e": 26
         },
         {
-            "rank": 85,
+            "rank": 84,
             "id": 21436,
             "name": "P_O_W_E_R",
             "points": 21893,
@@ -1127,7 +1114,7 @@
             "e": 18
         },
         {
-            "rank": 86,
+            "rank": 85,
             "id": 20544,
             "name": "東雲_Noa",
             "points": 21711,
@@ -1140,7 +1127,7 @@
             "e": 18
         },
         {
-            "rank": 87,
+            "rank": 86,
             "id": 18407,
             "name": "o4ts",
             "points": 21711,
@@ -1153,7 +1140,7 @@
             "e": 11
         },
         {
-            "rank": 88,
+            "rank": 87,
             "id": 19188,
             "name": "_v_にゅくす_v_",
             "points": 21701,
@@ -1166,7 +1153,7 @@
             "e": 23
         },
         {
-            "rank": 89,
+            "rank": 88,
             "id": 30834,
             "name": "fuburem＿ふぶれむ",
             "points": 21658,
@@ -1179,7 +1166,7 @@
             "e": 18
         },
         {
-            "rank": 90,
+            "rank": 89,
             "id": 31404,
             "name": "Ollimaniac",
             "points": 21558,
@@ -1192,7 +1179,7 @@
             "e": 14
         },
         {
-            "rank": 91,
+            "rank": 90,
             "id": 4975,
             "name": "ianx․549432 d0d4",
             "points": 21484,
@@ -1205,7 +1192,7 @@
             "e": 40
         },
         {
-            "rank": 92,
+            "rank": 91,
             "id": 4,
             "name": "RayProtogn",
             "points": 21423,
@@ -1218,7 +1205,7 @@
             "e": 13
         },
         {
-            "rank": 93,
+            "rank": 92,
             "id": 1093,
             "name": "やわらか銀行",
             "points": 21410,
@@ -1231,7 +1218,7 @@
             "e": 51
         },
         {
-            "rank": 94,
+            "rank": 93,
             "id": 17802,
             "name": "Tycowboy1911",
             "points": 21312,
@@ -1244,7 +1231,7 @@
             "e": 32
         },
         {
-            "rank": 95,
+            "rank": 94,
             "id": 31406,
             "name": "Tommy3000",
             "points": 21217,
@@ -1257,7 +1244,7 @@
             "e": 21
         },
         {
-            "rank": 96,
+            "rank": 95,
             "id": 6844,
             "name": "Greyson345 69e4",
             "points": 21178,
@@ -1270,7 +1257,7 @@
             "e": 66
         },
         {
-            "rank": 97,
+            "rank": 96,
             "id": 13476,
             "name": "Crazygoldenbone",
             "points": 21122,
@@ -1283,7 +1270,7 @@
             "e": 41
         },
         {
-            "rank": 98,
+            "rank": 97,
             "id": 25723,
             "name": "DRACO_AZUL",
             "points": 21079,
@@ -1296,7 +1283,7 @@
             "e": 21
         },
         {
-            "rank": 99,
+            "rank": 98,
             "id": 27051,
             "name": "2tar2et Jessica",
             "points": 20961,
@@ -1309,7 +1296,7 @@
             "e": 24
         },
         {
-            "rank": 100,
+            "rank": 99,
             "id": 14656,
             "name": "Majоra",
             "points": 20934,
@@ -1320,6 +1307,19 @@
             "b": 1224,
             "c": 2557,
             "e": 18
+        },
+        {
+            "rank": 100,
+            "id": 2548,
+            "name": "Mordecai Fox",
+            "points": 20477,
+            "w": 9,
+            "l": 0,
+            "d": 0,
+            "a": 17106,
+            "b": 734,
+            "c": 2650,
+            "e": 42
         }
     ]
 }
