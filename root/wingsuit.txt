@@ -1,5 +1,5 @@
-T3	wingsuit	30187	points	25	0	0	1	4	10	0	5
-P	1	9333	141	0	0	147036	86829	18341	320	499477	ღ AlphaGoddess
+T3	wingsuit	30188	points	25	0	0	1	4	10	0	5
+P	1	9333	142	0	0	147941	87340	18443	321	502456	ღ AlphaGoddess
 P	2	19961	124	0	0	256964	12438	38396	422	311926	mihanit
 P	3	25120	97	0	0	126757	44984	18413	159	309913	Seraphyna
 P	4	11057	19	0	0	59366	26721	13589	43	166940	oji san
@@ -99,16 +99,16 @@ P	97	12894	18	0	0	20744	393	2950	50	23016	The_Dogman5
 P	98	19686	1	0	0	11212	2929	2278	9	22998	泡菜可以吗
 P	99	19169	5	0	0	12328	2562	1753	17	22786	JuiceKind
 P	100	5622	28	0	0	18191	891	2502	64	22775	kingdjtrollex
-R	w	1	9333	141	ღ AlphaGoddess
+R	w	1	9333	142	ღ AlphaGoddess
 R	w	2	19961	124	mihanit
 R	w	3	25120	97	Seraphyna
-R	pk	1	9333	86829	ღ AlphaGoddess
+R	pk	1	9333	87340	ღ AlphaGoddess
 R	pk	2	25120	44984	Seraphyna
 R	pk	3	11057	26721	oji san
 R	ik	1	19961	256964	mihanit
-R	ik	2	9333	147036	ღ AlphaGoddess
+R	ik	2	9333	147941	ღ AlphaGoddess
 R	ik	3	25120	126757	Seraphyna
-R	gm	1	9333	141	ღ AlphaGoddess
+R	gm	1	9333	142	ღ AlphaGoddess
 R	gm	2	19961	124	mihanit
 R	gm	3	25120	97	Seraphyna
 R	wr	1	9333	1000	ღ AlphaGoddess
@@ -116,8 +116,8 @@ R	wr	2	19961	1000	mihanit
 R	wr	3	25120	1000	Seraphyna
 R	c3	1	19961	38396	mihanit
 R	c3	2	15333	24973	∗TBO∗
-R	c3	3	25120	18413	Seraphyna
+R	c3	3	9333	18443	ღ AlphaGoddess
 R	c4	1	19961	422	mihanit
-R	c4	2	9333	320	ღ AlphaGoddess
+R	c4	2	9333	321	ღ AlphaGoddess
 R	c4	3	12616	187	scuba2 dd7e
-Z	23823	54221929	2670867	9058458	124410
+Z	23824	54223696	2671400	9058712	124415
