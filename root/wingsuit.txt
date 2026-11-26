@@ -1,5 +1,5 @@
-T3	wingsuit	30853	points	25	0	0	1	4	10	0	5
-P	1	9333	144	0	0	153454	91736	19081	332	525658	ღ AlphaGoddess
+T3	wingsuit	30854	points	25	0	0	1	4	10	0	5
+P	1	9333	145	0	0	155219	93124	19252	338	533030	ღ AlphaGoddess
 P	2	19961	130	0	0	263327	12890	39509	430	320287	mihanit
 P	3	25120	97	0	0	126757	44984	18413	159	309913	Seraphyna
 P	4	11057	21	0	0	69388	32663	16936	49	200810	oji san
@@ -99,16 +99,16 @@ P	97	17121	9	0	0	19307	950	2979	44	23552	༒愛Skull愛༒
 P	98	28366	13	0	0	19322	898	3023	22	23349	Foxxy Chiller
 P	99	26648	13	0	0	20923	435	3048	52	23248	metre-yaudaa
 P	100	25013	10	0	0	16252	1630	2924	21	23127	SeenaJP
-R	w	1	9333	144	ღ AlphaGoddess
+R	w	1	9333	145	ღ AlphaGoddess
 R	w	2	19961	130	mihanit
 R	w	3	25120	97	Seraphyna
-R	pk	1	9333	91736	ღ AlphaGoddess
+R	pk	1	9333	93124	ღ AlphaGoddess
 R	pk	2	25120	44984	Seraphyna
 R	pk	3	11057	32663	oji san
 R	ik	1	19961	263327	mihanit
-R	ik	2	9333	153454	ღ AlphaGoddess
+R	ik	2	9333	155219	ღ AlphaGoddess
 R	ik	3	25120	126757	Seraphyna
-R	gm	1	9333	144	ღ AlphaGoddess
+R	gm	1	9333	145	ღ AlphaGoddess
 R	gm	2	19961	130	mihanit
 R	gm	3	25120	97	Seraphyna
 R	wr	1	9333	1000	ღ AlphaGoddess
@@ -116,8 +116,8 @@ R	wr	2	19961	1000	mihanit
 R	wr	3	25120	1000	Seraphyna
 R	c3	1	19961	39509	mihanit
 R	c3	2	15333	24973	∗TBO∗
-R	c3	3	9333	19081	ღ AlphaGoddess
+R	c3	3	9333	19252	ღ AlphaGoddess
 R	c4	1	19961	430	mihanit
-R	c4	2	9333	332	ღ AlphaGoddess
+R	c4	2	9333	338	ღ AlphaGoddess
 R	c4	3	12616	189	scuba2 dd7e
-Z	24589	55773791	2763290	9317836	128173
+Z	24593	55778725	2764773	9318613	128185
