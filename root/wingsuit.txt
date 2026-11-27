@@ -1,5 +1,5 @@
 T3	wingsuit	31185	points	25	0	0	1	4	10	0	5
-P	1	9333	146	0	0	160917	98177	19876	355	559050	ღ AlphaGoddess
+P	1	9333	147	0	0	161868	99009	19973	357	563364	ღ AlphaGoddess
 P	2	19961	130	0	0	263327	12890	39509	430	320287	mihanit
 P	3	25120	97	0	0	126757	44984	18413	159	309913	Seraphyna
 P	4	11057	21	0	0	73483	35342	18495	50	215626	oji san
@@ -99,16 +99,16 @@ P	97	34509	7	0	0	12632	2860	1849	35	24422	tripper314
 P	98	31409	4	0	0	10654	3396	1848	11	24393	El Vito Bandito
 P	99	1435	6	0	0	23113	234	5253	24	24319	TOTO-chan
 P	100	14962	18	0	0	21420	510	4197	70	24260	spikevhal
-R	w	1	9333	146	ღ AlphaGoddess
+R	w	1	9333	147	ღ AlphaGoddess
 R	w	2	19961	130	mihanit
 R	w	3	25120	97	Seraphyna
-R	pk	1	9333	98177	ღ AlphaGoddess
+R	pk	1	9333	99009	ღ AlphaGoddess
 R	pk	2	25120	44984	Seraphyna
 R	pk	3	11057	35342	oji san
 R	ik	1	19961	263327	mihanit
-R	ik	2	9333	160917	ღ AlphaGoddess
+R	ik	2	9333	161868	ღ AlphaGoddess
 R	ik	3	25120	126757	Seraphyna
-R	gm	1	9333	146	ღ AlphaGoddess
+R	gm	1	9333	147	ღ AlphaGoddess
 R	gm	2	19961	130	mihanit
 R	gm	3	25120	97	Seraphyna
 R	wr	1	9333	1000	ღ AlphaGoddess
@@ -116,8 +116,8 @@ R	wr	2	19961	1000	mihanit
 R	wr	3	25120	1000	Seraphyna
 R	c3	1	19961	39509	mihanit
 R	c3	2	15333	24973	∗TBO∗
-R	c3	3	9333	19876	ღ AlphaGoddess
+R	c3	3	9333	19973	ღ AlphaGoddess
 R	c4	1	19961	430	mihanit
-R	c4	2	9333	355	ღ AlphaGoddess
+R	c4	2	9333	357	ღ AlphaGoddess
 R	c4	3	12616	189	scuba2 dd7e
-Z	25123	56768266	2847359	9479134	130417
+Z	25124	56770821	2848223	9479516	130426
